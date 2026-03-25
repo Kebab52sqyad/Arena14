@@ -1,0 +1,133 @@
+- type: loadoutGroup
+  id: ArenaT2GunsLoadoutGroup
+  name: Вооружение
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - STWeaponMachineGunM249SAWL
+  - STWeaponSMGFNP90L
+  - STWeaponShotgunSaiga12L
+  #- STWeaponSMGThompsonL
+  - STWeaponSMGPPSh41L
+  - STWeaponSMGMP5L
+
+- type: loadoutGroup
+  id: ArenaSniperGunsLoadoutGroup
+  name: Вооружение
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - STWeaponSniperSVDSL
+
+- type: loadoutGroup
+  id: ArenaLimanskGunsLoadoutGroup
+  name: Вооружение
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - STWeaponSniperSVDSL
+  - STWeaponSMGFNP90L
+  - STWeaponSMGMP5L
+  - STWeaponRifleAK74ML
+  - STWeaponRifleOC14L
+  - STWeaponRifleAK103L
+  - STWeaponRifleGalilL
+  - STWeaponRifleF2000L
+
+- type: loadoutGroup
+  id: ArenaSniperCloakLoadoutGroup
+  name: Плащ
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - ClothingOuterCoatBolotniyL
+
+- type: loadoutGroup
+  id: ArenaAmmoLoadoutGroup
+  name: Боекомплект
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - ClothingBeltWebbingArena545L
+  - ClothingBeltWebbingArena556MagsL
+  - ClothingBeltWebbingArena739MagsL
+  - ClothingBeltWebbingArena751L
+  - ClothingBeltWebbingArena754L
+  - ClothingBeltWebbingArenaVityazL
+  - ClothingBeltWebbingArena725L
+  - ClothingBeltWebbingArena556BoxL
+  - ClothingBeltWebbingArenaP90L
+  - ClothingBeltWebbingArenaSaigaL
+
+- type: loadoutGroup
+  id: ArenaT2LoadoutGroupArmour
+  name: Броня
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - STClothingOuterArmorLightPlateVestBaseFreedomL
+  - STClothingOuterArmorLightPlateVestBaseStalkerL
+  - STClothingOuterArmorLightPlateVestBaseMilitaryL
+  - STClothingOuterArmorLightPlateVestBasePoliceL
+  - STClothingOuterArmorLightPlateVestBaseZavetL
+  - STClothingOuterArmorLightPlateVestBaseBandL
+  - STClothingOuterArmorLightPlateVestBaseMercL
+  - STClothingOuterArmorLightPlateVestBaseUNL
+  - STClothingOuterArmorLightPlateVestBaseRenegateL
+  - STClothingOuterArmorLightPlateVestBaseMonolithL
+
+
+- type: loadoutGroup
+  id: ArenaHeadLoadoutGroup
+  name: Головной Убор
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - ClothingHeadHatCatEarsL
+  - ClothingHeadHatUshankaL
+  - ClothingHeadBeretMilitaryL
+  - ClothingHeadWildHatAnomalistL
+  - ClothingHeadHatGreyFlatcapL
+  - STBucketL
+  - PlungerL
+
+- type: loadoutGroup
+  id: ArenaLegsLoadoutGroup
+  name: Низ
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - ClothingLegsJeansBlueL
+  - ClothingLegsJeansFreedomCamouflageL
+  - ClothingLegsJeansDolgCamouflageL
+  - ClothingLegsJeansSandCargoL
+  - STClothingLegsJeansLitL
+  - STClothingLegsJeansPolL
+  - STClothingLegsJeansFrL
+  - STClothingLegsJeanskzL
+  - STClothingLegsJeansRusL
+  - STClothingLegsJeansCzL
+  - ClothingLegsJeansUaL
+  - ClothingLegsJeansUa2L
+  - ClothingLegsJeansMonolithCamouflageL
+
+- type: loadoutGroup
+  id: ArenaTorsoLoadoutGroup
+  name: Верх
+  minLimit: 0
+  maxLimit: 1
+  loadouts:
+  - ClothingTorsoTShirtColorBlackL
+  - ClothingTorsoJacketAdidasL
+  - ClothingTorsoTurtlenecksFreedomCamouflageL
+  - ClothingTorsoTurtlenecksDolgCamouflageL
+  - ClothingTorsoShirtWhiteScientificL
+  - STClothingTosroTurtlenecksLitL
+  - STClothingTosroTurtlenecksPolL
+  - STClothingTosroTurtlenecksFrL
+  - STClothingTosroTurtlenecksKzL
+  - STClothingTosroTurtlenecksRuL
+  - STClothingTosroTurtlenecksCZL
+  - ClothingTorsoTurtlenecksUaL
+  - ClothingTorsoTurtlenecksUa2L
+  - ClothingTorsoTurtlenecksMonolithCamouflageL

@@ -1,0 +1,24 @@
+﻿[game]
+hostname = "⬛🟧[DM] ARENA 14 🟧⬛️"
+desc = "Stalker fork for death match gameplay."
+map_pool = "STDefaultMapPool"
+maxplayers = 90
+soft_max_players = 60
+map_rotation = true
+role_timers = true
+peaceful_end = false
+contraband_examine = false
+
+[whitelist]
+enabled = false
+
+[shuttle]
+auto_call_time = 0
+emergency = false
+arrivals = false
+preload_grids = false
+camera_rotation_locked = true
+
+[infolinks]
+discord = "https://discord.gg/Pv7vpH4kSH"
+patreon = "https://boosty.to/stalkerss14"

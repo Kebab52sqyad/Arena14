@@ -1,0 +1,62 @@
+- type: job
+  id: ArenologT2
+  name: Аренолог Военка
+  icon: voen
+  description: Самый базовый пресет
+  playTimeTracker: JobArenologT2
+  startingGear: ArenologGear
+  supervisors: Подчиняетесь законам божьим
+
+- type: playTimeTracker
+  id: JobArenologT2
+
+#################################################
+
+- type: startingGear
+  id: ArenologGear
+  equipment:
+    id: MilitaryPDA
+    back: ClothingBackpackDuffelArena
+    pocket1: MedkitMilitary
+    pocket2: STEnergyDrinkRevo
+    ears: STHeadLight
+    gloves: ClothingHandsMercGlovesCombat
+    shoes: ClothingShoesBootsCombatFilled
+
+#############################################
+- type: job
+  id: ArenologSniper
+  name: Аренолог Снайперские
+  icon: voen
+  description: Самый базовый пресет
+  playTimeTracker: JobArenologSniper
+  startingGear: ArenologGear
+  supervisors: Подчиняетесь законам божьим
+
+- type: playTimeTracker
+  id: JobArenologSniper
+
+#############################################
+- type: job
+  id: ArenologLimansk
+  name: Аренолог Лима
+  icon: voen
+  description: Самый базовый пресет
+  playTimeTracker: JobArenologLimansk
+  startingGear: ArenologGear
+  supervisors: Подчиняетесь законам божьим
+
+- type: playTimeTracker
+  id: JobArenologLimansk
+
+
+- type: department
+  id: ArenaDepartment
+  name: Жители Арены
+  description: desc
+  color: "#111111"
+  weight: 1
+  roles:
+  - ArenologT2
+  - ArenologSniper
+  - ArenologLimansk

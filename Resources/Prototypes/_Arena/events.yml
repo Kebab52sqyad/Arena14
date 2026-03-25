@@ -1,0 +1,6 @@
+﻿- type: entity
+  parent: BaseGameRule
+  id: ArenaKillCallout
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: KillCalloutRule

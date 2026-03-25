@@ -1,0 +1,8 @@
+- type: soundCollection
+  id: STLobbyMusic
+  files:
+    - /Audio/_Stalker/Music/Radio/clear_sky_theme.ogg
+    - /Audio/_Stalker/Music/Radio/clear_sky_theme2.ogg
+    - /Audio/_Stalker/Music/Radio/stalker_combat_theme.ogg
+    - /Audio/_Stalker/Music/Radio/stalker_combat_theme2.ogg
+

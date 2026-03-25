@@ -1,0 +1,6 @@
+- type: gameMapPool
+  id: STDefaultMapPool
+  maps:
+  - ArenaMilitaryBaseWorld
+  - ArenaForestWorld
+  - ArenaLimanskWorld

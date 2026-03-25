@@ -1,0 +1,55 @@
+# arena-changes-start
+- type: gameMap
+  id: ArenaMilitaryBaseWorld
+  mapName: 'MilitaryBase'
+  mapPath: "/Maps/_Arena/MilitaryBaseLobbyV2.yml"
+  minPlayers: 0
+  stations:
+    Stalker:
+      stationProto: StandardStalkerStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: "Военная База"
+        - type: StationJobs
+          overflowJobs:
+            - ArenologT2
+          availableJobs:
+            ArenologT2: [ -1, -1 ]
+
+- type: gameMap
+  id: ArenaForestWorld
+  mapName: 'Forest'
+  mapPath: "/Maps/_Arena/ForestLobbyV1.yml"
+  minPlayers: 0
+  stations:
+    Stalker:
+      stationProto: StandardStalkerStation
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: "Лес"
+      - type: StationJobs
+        overflowJobs:
+        - ArenologSniper
+        availableJobs:
+          ArenologSniper: [ -1, -1 ]
+
+
+- type: gameMap
+  id: ArenaLimanskWorld
+  mapName: 'Limansk'
+  mapPath: "/Maps/_Arena/LimanskLobbyV1.yml"
+  minPlayers: 0
+  stations:
+    Stalker:
+      stationProto: StandardStalkerStation
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: "Улицы Лиманска"
+      - type: StationJobs
+        overflowJobs:
+        - ArenologLimansk
+        availableJobs:
+          ArenologLimansk: [ -1, -1 ]
+
+
+# arena-changes-end

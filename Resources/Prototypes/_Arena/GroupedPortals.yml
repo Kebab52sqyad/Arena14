@@ -1,0 +1,122 @@
+# MILITARY-BASE
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaLOBBY-ARENA
+  name: ArenaLOBBY-ARENA
+  components:
+    - type: GroupTeleport
+      group: "LOBBYARENA"
+      targetGroup: "ARENALOBBY"
+      allowAll: true
+      godmodeCooldown: 5
+      time: 60
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaARENA-LOBBY
+  name: ArenaARENA-LOBBY
+  components:
+    - type: AccessReader
+      access: [["Bandit"]]
+    - type: GroupTeleport
+      group: "ARENALOBBY"
+      targetGroup: "LOBBYARENA"
+      allowAll: false
+      godmodeCooldown: 5
+      time: 60
+    - type: PointLight
+      color: Yellow
+      radius: 0
+      energy: 0
+      netsync: false
+# MILITARY-BASE
+
+# PVE-START
+- type: entity
+  parent: MapTeleportBase
+  id: ARENALOBBYPVE
+  noSpawn: true
+  name: Lobby-PVE
+  components:
+    - type: NewMapTeleport
+      allowAll: false
+      portalName: Arena-PVE
+- type: entity
+  parent: MapTeleportBaseUncollide
+  id: ARENAPVELOBBY
+  noSpawn: true
+  name: PVE-Lobby
+  components:
+    - type: NewMapTeleport
+      allowAll: false
+      portalName: Arena-PVE
+# PVE-END
+
+# FOREST
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaLOBBY-FOREST
+  name: ArenaLOBBY-FOREST
+  components:
+  - type: GroupTeleport
+    group: "LOBBYFOREST"
+    targetGroup: "FORESTLOBBY"
+    allowAll: true
+    godmodeCooldown: 5
+    time: 60
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaFOREST-LOBBY
+  name: ArenaFOREST-LOBBY
+  components:
+  - type: AccessReader
+    access: [["Bandit"]]
+  - type: GroupTeleport
+    group: "FORESTLOBBY"
+    targetGroup: "LOBBYFOREST"
+    allowAll: false
+    godmodeCooldown: 5
+    time: 60
+  - type: PointLight
+    color: Yellow
+    radius: 0
+    energy: 0
+    netsync: false
+# FOREST
+
+# LIMANSK
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaLOBBY-LIMANSK
+  name: ArenaLOBBY-LIMANSK
+  components:
+  - type: GroupTeleport
+    group: "LOBBYLIMANSK"
+    targetGroup: "LIMANSKLOBBY"
+    allowAll: true
+    godmodeCooldown: 5
+    time: 60
+- type: entity
+  parent: GroupedTeleportBase
+  suffix: ARENA
+  id: ArenaLIMANSK-LOBBY
+  name: ArenaLIMANSK-LOBBY
+  components:
+  - type: AccessReader
+    access: [["Bandit"]]
+  - type: GroupTeleport
+    group: "LIMANSKLOBBY"
+    targetGroup: "LOBBYLIMANSK"
+    allowAll: false
+    godmodeCooldown: 5
+    time: 60
+  - type: PointLight
+    color: Yellow
+    radius: 0
+    energy: 0
+    netsync: false
+# LIMANSK

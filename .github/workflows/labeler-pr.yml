@@ -1,0 +1,15 @@
+﻿name: "Labels: PR"
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  labeler:
+    if: github.actor != 'PJBot'
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/labeler@v5

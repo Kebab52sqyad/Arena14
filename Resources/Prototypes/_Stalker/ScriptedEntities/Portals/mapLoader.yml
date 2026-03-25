@@ -1,0 +1,4 @@
+- type: mapLoader
+  id: StalkerBaseMaps
+  mapPaths:
+    ArenaMilitaryBase: /Maps/_Arena/MilitaryBaseV3.yml # arena-changes
