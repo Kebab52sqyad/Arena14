@@ -1,0 +1,16 @@
+C:\Users\kamka1337\Desktop\Arena14\Arena14\bin\Content.Server.Database\Content.Server.Database.deps.json
+C:\Users\kamka1337\Desktop\Arena14\Arena14\bin\Content.Server.Database\Content.Server.Database.runtimeconfig.json
+C:\Users\kamka1337\Desktop\Arena14\Arena14\bin\Content.Server.Database\Content.Server.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\bin\Content.Server.Database\Content.Server.Database.pdb
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.AssemblyReference.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfoInputs.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfo.cs
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.CoreCompileInputs.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.sourcelink.json
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content..3E398902.Up2Date
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\refint\Content.Server.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.pdb
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.genruntimeconfig.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\ref\Content.Server.Database.dll

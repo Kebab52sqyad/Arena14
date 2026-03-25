@@ -1,0 +1,12 @@
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.deps.json
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.pdb
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.AssemblyInfoInputs.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.AssemblyInfo.cs
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.csproj.CoreCompileInputs.cache
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.sourcelink.json
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\refint\Content.Shared.Database.dll
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.pdb
+C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Debug\net8.0\ref\Content.Shared.Database.dll
