@@ -50,10 +50,6 @@
     magState: mag
     steps: 6
     zeroVisible: true
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.5
   - type: Scope
     zoom: 1.1
     offset: 7
