@@ -6,14 +6,14 @@
   loadouts: 
   - STWeaponSMGPPSh41L
   - STWeaponSMGMP5L
-  - STWeaponRifleAKM
-  - STWeaponRifleAKMC
-  - STWeaponRifleGalatz
-  - STWeaponRifleL85
-  - STWeaponRifleM4
-  - STWeaponRifleAKS74
-  - STWeaponRifleAKS74U
-  - STWeaponRifleFAL
+  - STWeaponRifleAKML
+  - STWeaponRifleAKMCL
+  - STWeaponRifleGalatzL
+  - STWeaponRifleL85L
+  - STWeaponRifleM4L
+  - STWeaponRifleAKS74L
+  - STWeaponRifleAKS74UL
+  - STWeaponRifleFALL
 
 - type: loadoutGroup
   id: ArenaSniperGunsLoadoutGroup
@@ -21,9 +21,9 @@
   minLimit: 1
   maxLimit: 1
   loadouts:
-  - STWeaponSniperMosin
-  - STWeaponSniperSKS
-  - STWeaponSniperVepr
+  - STWeaponSniperMosinL
+  - STWeaponSniperSKSL
+  - STWeaponSniperVeprL
   - STWeaponSniperSVDSL
 
 - type: loadoutGroup
@@ -36,8 +36,8 @@
   - STWeaponRifleAK74ML
   - STWeaponRifleOC14L
   - STWeaponRifleAK103L
-  - STWeaponRifleG36
-  - STWeaponRifleSIG550
+  - STWeaponRifleG36L
+  - STWeaponRifleSIG550L
 
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
