@@ -3,13 +3,17 @@
   name: Вооружение
   minLimit: 1
   maxLimit: 1
-  loadouts:
-  - STWeaponMachineGunM249SAWL
-  - STWeaponSMGFNP90L
-  - STWeaponShotgunSaiga12L
-  #- STWeaponSMGThompsonL
+  loadouts: 
   - STWeaponSMGPPSh41L
   - STWeaponSMGMP5L
+  - STWeaponRifleAKM
+  - STWeaponRifleAKMC
+  - STWeaponRifleGalatz
+  - STWeaponRifleL85
+  - STWeaponRifleM4
+  - STWeaponRifleAKS74
+  - STWeaponRifleAKS74U
+  - STWeaponRifleFAL
 
 - type: loadoutGroup
   id: ArenaSniperGunsLoadoutGroup
@@ -17,6 +21,9 @@
   minLimit: 1
   maxLimit: 1
   loadouts:
+  - STWeaponSniperMosin
+  - STWeaponSniperSKS
+  - STWeaponSniperVepr
   - STWeaponSniperSVDSL
 
 - type: loadoutGroup
@@ -26,13 +33,11 @@
   maxLimit: 1
   loadouts:
   - STWeaponSniperSVDSL
-  - STWeaponSMGFNP90L
-  - STWeaponSMGMP5L
   - STWeaponRifleAK74ML
   - STWeaponRifleOC14L
   - STWeaponRifleAK103L
-  - STWeaponRifleGalilL
-  - STWeaponRifleF2000L
+  - STWeaponRifleG36
+  - STWeaponRifleSIG550
 
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
