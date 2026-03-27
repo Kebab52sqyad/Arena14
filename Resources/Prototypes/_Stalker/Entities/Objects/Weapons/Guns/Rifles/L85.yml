@@ -53,10 +53,6 @@
   - type: Scope
     zoom: 1.2
     offset: 6
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.5
 
 
 - type: entity
