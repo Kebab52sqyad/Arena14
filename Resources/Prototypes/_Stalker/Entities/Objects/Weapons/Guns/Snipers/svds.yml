@@ -15,10 +15,10 @@
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/svd.ogg
     minAngle: 50
-    maxAngle: 120
+    maxAngle: 100
     angleDecay: 60
     angleIncrease: 2
-    fireRate: 1
+    fireRate: 1.2
   - type: ChamberMagazineAmmoProvider
     soundRack:
       path: /Audio/_Stalker/Weapons/Guns/RifleGen/Cock/rifle_cock.ogg

@@ -12,7 +12,7 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/SMGs/vz61.rsi
   - type: Gun
-    minAngle: 45
+    minAngle: 55
     maxAngle: 90
     angleIncrease: 2
     angleDecay: 25

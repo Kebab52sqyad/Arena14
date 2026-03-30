@@ -31,20 +31,20 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: Base545Mag10
+        startingItem: Base939Mag10
         insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
         ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
         priority: 4
         whitelist:
           tags:
-          - Magazine545
+          - Magazine939
       gun_chamber:
         name: Chamber
-        startingItem: STCartridge545FMJ
+        startingItem: STCartridge939
         priority: 1
         whitelist:
           tags:
-          - STCartridge545
+          - STCartridge939
 
 - type: entity
   parent: STBaseWeaponRifleOC14

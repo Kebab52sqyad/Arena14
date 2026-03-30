@@ -21,7 +21,7 @@
       volume: -10
     minAngle: 50
     maxAngle: 85
-    angleIncrease: 2
+    angleIncrease: 2.5
     angleDecay: 20
     fireRate: 6
   - type: ChamberMagazineAmmoProvider
