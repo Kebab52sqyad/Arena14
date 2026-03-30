@@ -12,14 +12,14 @@
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/l85.rsi
   - type: Gun
-    fireRate: 6
+    fireRate: 5
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/l85.ogg
       params:
         volume: -2
-    minAngle: 40
-    maxAngle: 75
-    angleIncrease: 1
+    minAngle: 55
+    maxAngle: 105
+    angleIncrease: 1.4
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
     selectedMode: Burst

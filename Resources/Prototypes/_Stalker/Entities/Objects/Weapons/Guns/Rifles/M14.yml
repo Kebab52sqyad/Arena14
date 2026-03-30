@@ -12,16 +12,16 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/m14.rsi
   - type: Gun
-    fireRate: 4
+    fireRate: 3.5
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/fal.ogg
       params:
         volume: -2
-    projectileSpeed: 35
+    projectileSpeed: 70
     minAngle: 50
-    maxAngle: 150
-    angleIncrease: 5.5
-    angleDecay: 27.5
+    maxAngle: 95
+    angleIncrease: 3.5
+    angleDecay: 25
   - type: ItemSlots
     slots:
       gun_magazine:

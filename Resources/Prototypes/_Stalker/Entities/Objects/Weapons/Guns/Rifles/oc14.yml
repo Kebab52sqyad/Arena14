@@ -12,14 +12,14 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/groza.rsi
   - type: Gun
-    fireRate: 6
+    fireRate: 5.5
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/n_groza_shot.ogg
       params:
           volume: -2
-    minAngle: 40
-    maxAngle: 75
-    angleIncrease: 0.7
+    minAngle: 47
+    maxAngle: 60
+    angleIncrease: 1
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
     selectedMode: Burst
