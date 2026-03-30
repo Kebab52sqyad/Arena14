@@ -15,8 +15,8 @@
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/103_shoot.ogg
     minAngle: 52
-    maxAngle: 125
-    angleIncrease: 2
+    maxAngle: 100
+    angleIncrease: 1.6
     selectedMode: FullAuto
     availableModes:
     - SemiAuto
@@ -74,5 +74,5 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/akms.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/akms.rsi
-    minAngle: 57
-    maxAngle: 130
+    minAngle: 47
+    maxAngle: 85

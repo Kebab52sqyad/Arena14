@@ -16,12 +16,12 @@
       path: /Audio/_Stalker/Effects/Guns/ak.ogg
     minAngle: 50
     maxAngle: 95
-    angleIncrease: 1.53
+    angleIncrease: 1.4
     selectedMode: FullAuto
     availableModes:
     - SemiAuto
     - FullAuto
-    fireRate: 6
+    fireRate: 5
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -66,10 +66,10 @@
   description: Modern modification with polymer furniture and optics rail. Valued in the Zone for versatility and improved ergonomics.
   components:
   - type: Gun
-    angleIncrease: 1
-    fireRate: 7
+    angleIncrease: 1.5
+    fireRate: 6.5
     minAngle: 50
-    maxAngle: 90
+    maxAngle: 85
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Item
@@ -90,7 +90,7 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Gun
-    minAngle: 50
+    minAngle: 52
     maxAngle: 95
     angleIncrease: 1
     fireRate: 3
@@ -116,12 +116,12 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/A-545.rsi
     scale: 0.75, 0.75
   - type: Gun
-    minAngle: 45
-    maxAngle: 90
-    angleIncrease: 0.8
-    fireRate: 9
+    minAngle: 52
+    maxAngle: 95
+    angleIncrease: 1.2
+    fireRate: 8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+    accuracyMultiplier: 1.46
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -205,9 +205,9 @@
   - type: Gun
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/n_ak74u_shot.ogg
-    minAngle: 45
-    maxAngle: 75
-    fireRate: 6
+    minAngle: 55
+    maxAngle: 110
+    fireRate: 5
     angleIncrease: 1.75
 
 - type: entity
