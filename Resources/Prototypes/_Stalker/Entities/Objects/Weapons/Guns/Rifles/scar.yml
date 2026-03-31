@@ -27,7 +27,7 @@
     - Burst
     - SemiAuto
     - FullAuto
-    angleDecay: 27.5
+    angleDecay: 5
   - type: ItemSlots
     slots:
       gun_magazine:

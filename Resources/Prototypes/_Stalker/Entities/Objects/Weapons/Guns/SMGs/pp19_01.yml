@@ -12,10 +12,10 @@
     - type: Clothing
       sprite: _Stalker/Objects/Weapons/Guns/SMGs/pp19.rsi
     - type: Gun
-      projectileSpeed: 18
-      minAngle: 40
-      maxAngle: 80
-      angleIncrease: 1
+      projectileSpeed: 70
+      minAngle: 51
+      maxAngle: 75
+      angleIncrease: 1.8
       shotsPerBurst: 3
       ShotsPerBurstModified: 3
       selectedMode: FullAuto

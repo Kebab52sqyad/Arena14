@@ -19,7 +19,7 @@
       params:
         volume: -2
     minAngle: 55
-    maxAngle: 55
+    maxAngle: 95
     angleIncrease: 1.5
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
@@ -86,14 +86,14 @@
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/hk416.rsi
   - type: Gun
-    fireRate: 7.5
+    fireRate: 8
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/m4.ogg
       params:
         volume: -2
-    minAngle: 50
-    maxAngle: 90
-    angleIncrease: 1.5
+    minAngle: 52
+    maxAngle: 95
+    angleIncrease: 1.2
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
