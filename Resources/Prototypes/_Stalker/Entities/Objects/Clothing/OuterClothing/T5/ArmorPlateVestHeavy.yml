@@ -15,20 +15,18 @@
       flatReductions:
         Blunt: 5
         Slash: 5
-        Piercing: 7
+        Piercing: 8
       coefficients:
         Blunt: 0.7
         Slash: 0.7
-        Piercing: 0.6
+        Piercing: 0.7
   - type: ExplosionResistance
     damageCoefficient: 0.5
   - type: Sprite
     sprite: _Stalker/Objects/Clothing/outerClothing/plate_heavy_military.rsi
   - type: Clothing
     sprite: _Stalker/Objects/Clothing/outerClothing/plate_heavy_military.rsi
-  - type: ClothingSpeedModifier
-    walkModifier: 0.9
-    sprintModifier: 0.9
+
 
 # Military
 

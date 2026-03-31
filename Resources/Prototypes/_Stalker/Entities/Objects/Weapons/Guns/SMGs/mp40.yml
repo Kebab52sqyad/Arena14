@@ -15,11 +15,11 @@
     sprite: _Stalker/Objects/Weapons/Guns/SMGs/mp40.rsi
     equipDelay: 1
   - type: Gun
-    minAngle: 52
-    maxAngle: 70
-    angleIncrease: 3
-    angleDecay: 5
-    fireRate: 9
+    minAngle: 50
+    maxAngle: 110
+    angleIncrease: 1.5
+    angleDecay: 3
+    fireRate: 7
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/mp40.ogg
   - type: ItemSlots

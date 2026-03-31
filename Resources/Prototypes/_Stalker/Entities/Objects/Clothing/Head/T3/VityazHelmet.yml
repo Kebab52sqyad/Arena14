@@ -20,9 +20,8 @@
       flatReductions:
         Blunt: 5
         Slash: 5
-        Piercing: 3
       coefficients:
-        Blunt: 0.75
+        Piercing: 0.75
         Slash: 0.75
   - type: ExplosionResistance
     damageCoefficient: 0.90

@@ -22,12 +22,12 @@
       map: ["enum.GunVisualLayers.Mag"]
   - type: Wieldable
   - type: GunWieldBonus
-    minAngle: -40
-    maxAngle: -40
+    minAngle: -50
+    maxAngle: -50
   - type: PullDoAfter
     pullTime: 1.5
   - type: Gun
-    projectileSpeed: 50
+    projectileSpeed: 70
     selectedMode: FullAuto
     availableModes:
     - FullAuto

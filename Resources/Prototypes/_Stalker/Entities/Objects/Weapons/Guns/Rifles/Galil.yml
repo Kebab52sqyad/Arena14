@@ -18,7 +18,7 @@
       params:
         volume: -2
     minAngle: 55
-    maxAngle: 80
+    maxAngle: 70
     angleIncrease: 1.5
     shotsPerBurst: 3
     ShotsPerBurstModified: 3

@@ -31,12 +31,12 @@
       flatReductions:
         Blunt: 6
         Slash: 6
-        Piercing: 6
+        Piercing: 8
         Caustic: 1
       coefficients:
         Blunt: 0.60
         Slash: 0.45
-        Piercing: 0.40
+        Piercing: 0.70
         Heat: 0.45
         Caustic: 0.5
         Shock: 0.35
