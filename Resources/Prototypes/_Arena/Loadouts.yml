@@ -154,6 +154,11 @@
     head: STBucket
 
 - type: loadout
+  id: STClothingHeadHelmetCombatT3BaseL
+  equipment:
+    head: STClothingHeadHelmetCombatT3Base
+
+- type: loadout
   id: PlungerL
   equipment:
     head: Plunger
@@ -344,6 +349,21 @@
   id: STClothingOuterArmorLightPlateVestBaseMonolithL
   equipment:
     outerClothing: STClothingOuterArmorLightPlateVestBaseMonolith
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBasePSZ7v1L
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBasePSZ7v1
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBaseANAgreenL
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBaseANAgreen
+
+- type: loadout
+  id: STClothingOuterIOTVL
+  equipment:
+    outerClothing: STClothingOuterIOTV
 
 - type: loadout
   id: ClothingOuterJacketBanditL
