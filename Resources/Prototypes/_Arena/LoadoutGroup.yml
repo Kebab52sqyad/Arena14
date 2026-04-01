@@ -3,7 +3,7 @@
   name: Вооружение
   minLimit: 1
   maxLimit: 1
-  loadouts: 
+  loadouts:
   - STWeaponSMGPPSh41L
   - STWeaponSMGMP5L
   - STWeaponRifleAKML
@@ -38,6 +38,7 @@
   - STWeaponRifleAK103L
   - STWeaponRifleG36L
   - STWeaponRifleSIG550L
+  - STWeaponRifleGalilL
 
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
@@ -80,6 +81,9 @@
   - STClothingOuterArmorLightPlateVestBaseUNL
   - STClothingOuterArmorLightPlateVestBaseRenegateL
   - STClothingOuterArmorLightPlateVestBaseMonolithL
+  - STClothingOuterArmorLightPlateVestBaseANAgreenL
+  - STClothingOuterArmorLightPlateVestBasePSZ7v1L
+  - STClothingOuterIOTVL
 
 
 - type: loadoutGroup
@@ -95,6 +99,7 @@
   - ClothingHeadHatGreyFlatcapL
   - STBucketL
   - PlungerL
+  - STClothingHeadHelmetCombatT3BaseL
 
 - type: loadoutGroup
   id: ArenaLegsLoadoutGroup
