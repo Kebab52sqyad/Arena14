@@ -17,9 +17,9 @@
       path: /Audio/_Stalker/Effects/Guns/scar.ogg
       params:
         volume: -2
-    minAngle: 55
+    minAngle: 50
     maxAngle: 95
-    angleIncrease: 1.3
+    angleIncrease: 1
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
     selectedMode: FullAuto

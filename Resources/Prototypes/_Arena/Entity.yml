@@ -15,6 +15,9 @@
       - id: MedkitMilitary
       - id: MedkitMilitary
       - id: MedkitMilitary
+      - id: MedkitMilitary
+      - id: MedkitMilitary
+      - id: MedkitMilitary
       - id: STGauze
       - id: Arena545PCBox
       - id: Arena919PBMBox
@@ -197,6 +200,18 @@
       - id: Arena556box249
       - id: Arena556box249
 
+- type: entity
+  parent: ClothingBeltWebbingOfficerStalker
+  id: ClothingBeltWebbingArena919TommyDrum
+  name: комплект (9x19) PBM Барабан
+  description: Набор подсумков и поясная сумка офицерского комплекта персональной системы защиты в раскраске вудланд, имеющий пистолетную кобуру.
+  suffix: Arena
+  components:
+  - type: StorageFill
+    contents:
+      - id: ArenaTommyGunBigDrum
+      - id: ArenaTommyGunBigDrum
+
 # loaded mags
 - type: entity
   id: Arena545Mag30
@@ -306,6 +321,17 @@
   components:
   - type: BallisticAmmoProvider
     capacity: 50
+    proto: STCartridge919PBM
+
+- type: entity
+  id: ArenaTommyGunBigDrum
+  name: Магазин на томпсон (100)
+  description: Магазин 9x19 мм для Томпсона. Вместимость пуль 100. Продают пустым.
+  parent: TommyGunBigDrum
+  tag: Stalker
+  components:
+  - type: BallisticAmmoProvider
+    capacity: 100
     proto: STCartridge919PBM
 
 # ammo

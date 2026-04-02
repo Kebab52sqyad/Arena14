@@ -40,12 +40,12 @@
 - type: loadout
   id: STWeaponSMGMP5L
   equipment:
-    suitstorage: STWeaponSMGMP5L
+    suitstorage: STWeaponSMGMP5
 
 - type: loadout
-  id: STWeaponRifleAKMCL
+  id: STWeaponRifleSCARHL
   equipment:
-    suitstorage: STWeaponRifleAKMC
+    suitstorage: STWeaponRifleSCARH
 
 - type: loadout
   id: STWeaponRifleG36L
@@ -496,3 +496,8 @@
   id: ClothingBeltWebbingArenaP90L
   equipment:
     belt: ClothingBeltWebbingArenaP90
+
+- type: loadout
+  id: ClothingBeltWebbingArena919TommyDrumL
+  equipment:
+    belt: ClothingBeltWebbingArena919TommyDrum
