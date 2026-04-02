@@ -22,7 +22,7 @@
     - SemiAuto
     - FullAuto
     angleDecay: 8
-    fireRate: 4.5
+    fireRate: 6
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -74,5 +74,5 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/akms.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/akms.rsi
-    minAngle: 47
+    minAngle: 48
     maxAngle: 85

@@ -79,7 +79,7 @@
     mayTransfer: true
     whitelist:
       tags:
-        - Cartridge45ACP
+        - STCartridge919PBM
     capacity: 40
   - type: Item
     size: Small
@@ -178,5 +178,5 @@
     mayTransfer: true
     whitelist:
       tags:
-        - Cartridge45ACP
+        - STCartridge919PBM
     capacity: 100

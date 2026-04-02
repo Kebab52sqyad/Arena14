@@ -23,7 +23,7 @@
     fireRate: 12
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
-    selectedMode: Burst
+    selectedMode: FullAuto
     availableModes:
     - Burst
     - FullAuto
@@ -58,7 +58,7 @@
         priority: 1
         whitelist:
           tags:
-          - Cartridge45ACP
+          - STCartridge919PBM
 
 - type: entity
   parent: STBaseWeaponSMGThompson
