@@ -4,9 +4,6 @@
   id: STBaseWeaponRifle
   name: A rifle
   components:
-  - type: FarGunshot
-    range: 260
-    sound: /Audio/_DZ/Effects/FarGunshots/rifle1.ogg
   - type: Sprite
     layers:
     - state: base
@@ -20,7 +17,7 @@
   - type: PullDoAfter
     pullTime: 2.5
   - type: Gun
-    projectileSpeed: 70
+    projectileSpeed: 60
     selectedMode: FullAuto
     availableModes:
     - SemiAuto
@@ -35,3 +32,5 @@
       gun_module_muzzle: !type:ContainerSlot
       gun_module_scope: !type:ContainerSlot
       gun_chamber: !type:ContainerSlot
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.46

@@ -32,13 +32,13 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: Base751Mag10
+        startingItem: Base556Mag10
         insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
         ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
         priority: 4
         whitelist:
           tags:
-          - Magazine751
+          - Magazine556
       gun_module_muzzle:
         name: Muzzle
         priority: 3
@@ -57,12 +57,12 @@
         priority: 1
         whitelist:
           tags:
-          - STCartridge751
+          - STCartridge556
 
 - type: entity
   parent: STBaseWeaponRifleSCARH
   id: STWeaponRifleSCARH
-  name: FN SCAR-H
+  name: FN SCAR-L
   description: Belgian battle rifle chambered in 7.62x51mm NATO. Rare in the Zone, mostly used by western mercenaries. Powerful but maintenance-heavy weapon.
 
 - type: entity

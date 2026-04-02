@@ -39,6 +39,10 @@
   - STWeaponRifleG36L
   - STWeaponRifleSIG550L
   - STWeaponRifleGalilL
+  - STWeaponRifleA545L
+  - STBaseWeaponSMGFNP90L
+  - STWeaponRifleAK203L
+  - STWeaponRifleSCARH
 
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
@@ -61,7 +65,6 @@
   - ClothingBeltWebbingArena754L
   - ClothingBeltWebbingArenaVityazL
   - ClothingBeltWebbingArena725L
-  - ClothingBeltWebbingArena556BoxL
   - ClothingBeltWebbingArenaP90L
   - ClothingBeltWebbingArenaSaigaL
 

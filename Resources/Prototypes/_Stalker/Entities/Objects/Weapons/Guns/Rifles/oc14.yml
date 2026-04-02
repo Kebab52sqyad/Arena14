@@ -22,7 +22,7 @@
     angleIncrease: 1
     shotsPerBurst: 3
     ShotsPerBurstModified: 3
-    selectedMode: Burst
+    selectedMode: FullAuto
     availableModes:
     - Burst
     - SemiAuto

@@ -6,9 +6,6 @@
   description: A rooty tooty point and shooty.
   suffix: Weapon, SMG
   components:
-  - type: FarGunshot
-    range: 190
-    sound: /Audio/_DZ/Effects/FarGunshots/smg1.ogg
   - type: Clothing
     sprite: Objects/Weapons/Guns/SMGs/atreides.rsi
   - type: Item
@@ -27,7 +24,7 @@
   - type: PullDoAfter
     pullTime: 1.5
   - type: Gun
-    projectileSpeed: 70
+    projectileSpeed: 60
     selectedMode: FullAuto
     availableModes:
     - FullAuto
@@ -42,3 +39,5 @@
       gun_module_underbarrel: !type:ContainerSlot
       gun_module_muzzle: !type:ContainerSlot
       gun_chamber: !type:ContainerSlot
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.46

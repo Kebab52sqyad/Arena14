@@ -6,9 +6,6 @@
   description: A rooty tooty point and shooty.
   suffix: Weapon, Sniper
   components:
-  - type: FarGunshot
-    range: 350
-    sound: /Audio/_DZ/Effects/FarGunshots/sniper1.ogg
   - type: Sprite
     layers:
     - state: base
@@ -23,7 +20,7 @@
     sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
   - type: AmmoCounter
   - type: Gun
-    projectileSpeed: 75
+    projectileSpeed: 70
     fireRate: 0.75
     selectedMode: SemiAuto
     availableModes:
@@ -53,4 +50,5 @@
         whitelist:
           tags:
           - STWeaponModuleSniperSilencer
-
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 5

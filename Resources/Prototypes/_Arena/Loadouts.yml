@@ -40,7 +40,47 @@
 - type: loadout
   id: STWeaponSMGMP5L
   equipment:
-    suitstorage: STWeaponSMGMP5
+    suitstorage: STWeaponSMGMP5L
+
+- type: loadout
+  id: STWeaponRifleAKMCL
+  equipment:
+    suitstorage: STWeaponRifleAKMC
+
+- type: loadout
+  id: STWeaponRifleG36L
+  equipment:
+    suitstorage: STBaseWeaponRifleG36
+
+- type: loadout
+  id: STWeaponRifleSIG550L
+  equipment:
+    suitstorage: STWeaponRifleSIG550
+
+- type: loadout
+  id: STWeaponRifleA545L
+  equipment:
+    suitstorage: STWeaponRifleA545
+
+- type: loadout
+  id: STWeaponRifleAK203L
+  equipment:
+    suitstorage: STWeaponRifleAK203
+
+- type: loadout
+  id: STWeaponRifleM4L
+  equipment:
+    suitstorage: STWeaponRifleM4
+
+- type: loadout
+  id: STWeaponRifleAKS74L
+  equipment:
+    suitstorage: STWeaponRifleAKS74
+
+- type: loadout
+  id: STWeaponRifleAKS74UL
+  equipment:
+    suitstorage: STWeaponRifleAKS74U
 
 - type: loadout
   id: STWeaponRifleAKML
@@ -76,6 +116,11 @@
   id: STWeaponSniperSVDSL
   equipment:
     suitstorage: STWeaponSniperSVDS
+
+- type: loadout
+  id: STWeaponSniperVeprL
+  equipment:
+    suitstorage: STWeaponSniperVepr
 
 - type: loadout
   id: STWeaponMachineGunM249SAWL
@@ -446,11 +491,6 @@
   id: ClothingBeltWebbingArena725L
   equipment:
     belt: ClothingBeltWebbingArena725
-
-- type: loadout
-  id: ClothingBeltWebbingArena556BoxL
-  equipment:
-    belt: ClothingBeltWebbingArena556Box
 
 - type: loadout
   id: ClothingBeltWebbingArenaP90L
