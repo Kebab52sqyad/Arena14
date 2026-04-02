@@ -34,6 +34,16 @@
   id: ClothingOuterCoatBolotniyL
   equipment:
     cloak: ClothingOuterCoatBolotniy
+
+- type: loadout
+  id: ClothingOuterCoatKKKL
+  equipment:
+    cloak: ClothingOuterCoatKKK
+
+- type: loadout
+  id: STClothingCapeFreedomChainL
+  equipment:
+    cloak: STClothingCapeFreedomChain
 # suitstorage
 
 ################################################## ##################################################3 ClothingOuterCoatBolotniy
@@ -179,24 +189,24 @@
     head: ClothingHeadHatUshanka
 
 - type: loadout
-  id: ClothingHeadBeretMilitaryL
+  id: ClothingHeadHelmetInfantryL
   equipment:
-    head: ClothingHeadBeretMilitary
+    head: ClothingHeadHelmetInfantry
 
 - type: loadout
-  id: ClothingHeadWildHatAnomalistL
+  id: ClothingHeadHelmetVityaz1BL
   equipment:
-    head: ClothingHeadWildHatAnomalist
+    head: ClothingHeadHelmetVityaz1B
 
 - type: loadout
-  id: ClothingHeadHatGreyFlatcapL
+  id: ClothingHeadHelmetBerill5MMilitaryL
   equipment:
-    head: ClothingHeadHatGreyFlatcap
+    head: ClothingHeadHelmetBerill5MMilitary
 
 - type: loadout
-  id: STBucketL
+  id: ClothingHeadAssaultHelmetDeserterL
   equipment:
-    head: STBucket
+    head: ClothingHeadAssaultHelmetDeserter
 
 - type: loadout
   id: STClothingHeadHelmetCombatT3BaseL
@@ -409,6 +419,16 @@
   id: STClothingOuterIOTVL
   equipment:
     outerClothing: STClothingOuterIOTV
+
+- type: loadout
+  id: STClothingOuterKoryndL
+  equipment:
+    outerClothing: STClothingOuterKorynd
+
+- type: loadout
+  id: ClothingOuterArmorZaryaStalkerL
+  equipment:
+    outerClothing: ClothingOuterArmorZaryaStalker
 
 - type: loadout
   id: ClothingOuterJacketBanditL

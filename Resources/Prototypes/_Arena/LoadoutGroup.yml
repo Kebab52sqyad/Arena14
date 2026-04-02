@@ -52,6 +52,8 @@
   maxLimit: 1
   loadouts:
   - ClothingOuterCoatBolotniyL
+  - ClothingOuterCoatKKKL
+  - STClothingCapeFreedomChainL
 
 - type: loadoutGroup
   id: ArenaAmmoLoadoutGroup
@@ -89,6 +91,8 @@
   - STClothingOuterArmorLightPlateVestBaseANAgreenL
   - STClothingOuterArmorLightPlateVestBasePSZ7v1L
   - STClothingOuterIOTVL
+  - STClothingOuterKoryndL
+  - ClothingOuterArmorZaryaStalkerL
 
 
 - type: loadoutGroup
@@ -99,12 +103,11 @@
   loadouts:
   - ClothingHeadHatCatEarsL
   - ClothingHeadHatUshankaL
-  - ClothingHeadBeretMilitaryL
-  - ClothingHeadWildHatAnomalistL
-  - ClothingHeadHatGreyFlatcapL
-  - STBucketL
-  - PlungerL
   - STClothingHeadHelmetCombatT3BaseL
+  - ClothingHeadAssaultHelmetDeserterL
+  - ClothingHeadHelmetBerill5MMilitaryL
+  - ClothingHeadHelmetVityaz1BL
+  - ClothingHeadHelmetInfantryL
 
 - type: loadoutGroup
   id: ArenaLegsLoadoutGroup
