@@ -214,6 +214,23 @@
       - id: ArenaTommyGunBigDrum
       - id: ArenaTommyGunBigDrum
 
+- type: entity
+  parent: ClothingBeltWebbingOfficerStalker
+  id: ClothingBeltWebbingArena939Mag
+  name: комплект (9x39) паб-9
+  description: Набор подсумков и поясная сумка офицерского комплекта персональной системы защиты в раскраске вудланд, имеющий пистолетную кобуру.
+  suffix: Arena
+  components:
+  - type: StorageFill
+    contents:
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+      - id: Arena939Mag20
+
 # loaded mags
 - type: entity
   id: Arena545Mag30
@@ -336,6 +353,17 @@
     capacity: 100
     proto: STCartridge919PBM
 
+- type: entity
+  id: Arena939Mag20
+  name: Магазиy 9x39 (20)
+  description: Магазин 39 мм для Грозы,Вала,ВСС. Вместимость пуль 20. Продают пустым.
+  parent: 939Mag20
+  tag: Stalker
+  components:
+  - type: BallisticAmmoProvider
+    capacity: 20
+    proto: STCartridge9x39PAB9
+
 # ammo
 - type: entity
   parent: 545PCBox
@@ -352,6 +380,17 @@
   parent: 556M855Box
   id: Arena556M855Box
   name: Коробка патронов (5,56) M855
+  description: Для штурмовых винтовок, в коробке 1000 штук. Обеспечивает пробитие 3 класса брони.
+  suffix: Arena
+  components:
+    - type: BallisticAmmoProvider
+      capacity: 1000
+    - type: DisarmMalus
+
+- type: entity
+  parent: STBox9x39PAB9
+  id: ArenaSTBox9x39PAB9
+  name: Коробка патронов (9x39) 9x39
   description: Для штурмовых винтовок, в коробке 1000 штук. Обеспечивает пробитие 3 класса брони.
   suffix: Arena
   components:
