@@ -10,7 +10,7 @@
   - type: STWeight
     self: 10.5
   - type: Armor
-    armorClass: 4
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 5

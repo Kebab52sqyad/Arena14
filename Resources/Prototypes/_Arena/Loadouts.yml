@@ -234,9 +234,64 @@
     head: ClothingHeadAssaultHelmetDeserter
 
 - type: loadout
-  id: STClothingHeadHelmetCombatT3BaseL
+  id: ClothingHeadHelmetPSZ9DL
   equipment:
-    head: STClothingHeadHelmetCombatT3Base
+    head: ClothingHeadHelmetPSZ9D
+
+- type: loadout
+  id: STClothingHeadHelmetFASTNeutralBlackL
+  equipment:
+    head: STClothingHeadHelmetFASTNeutralBlack
+
+- type: loadout
+  id: ClothingHeadHelmetUlachL
+  equipment:
+    head: ClothingHeadHelmetUlach
+
+- type: loadout
+  id: ClothingHeadHelmetUlachUNL
+  equipment:
+    head: ClothingHeadHelmetUlachUN
+
+- type: loadout
+  id: ClothingHeadHelmetHardUlachUNL
+  equipment:
+    head: ClothingHeadHelmetHardUlachUN
+
+- type: loadout
+  id: ClothingHeadRatnikL
+  equipment:
+    head: ClothingHeadRatnik
+
+- type: loadout
+  id: ClothingHeadHelmetVityaz1ML
+  equipment:
+    head: ClothingHeadHelmetVityaz1M
+
+- type: loadout
+  id: ClothingHeadHelmetVityaz1TL
+  equipment:
+    head: ClothingHeadHelmetVityaz1T
+
+- type: loadout
+  id: ClothingHeadAssaultHelmetMilitaryL
+  equipment:
+    head: ClothingHeadAssaultHelmetMilitary
+
+- type: loadout
+  id: ClothingHeadAssaultHelmetBanditL
+  equipment:
+    head: ClothingHeadAssaultHelmetBandit
+
+- type: loadout
+  id: ClothingHeadAssaultHelmetDolgL
+  equipment:
+    head: ClothingHeadAssaultHelmetDolg
+
+- type: loadout
+  id: ClothingHeadAssaultHelmetL
+  equipment:
+    head: ClothingHeadAssaultHelmet
 
 - type: loadout
   id: PlungerL
@@ -439,6 +494,86 @@
   id: STClothingOuterArmorLightPlateVestBaseANAgreenL
   equipment:
     outerClothing: STClothingOuterArmorLightPlateVestBaseANAgreen
+
+- type: loadout
+  id: STClothingOuterHeavyRedutL
+  equipment:
+    outerClothing: STClothingOuterHeavyRedut
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBaseHeavyMilitaryL
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBaseHeavyMilitary
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBaseHeavyMonolithL
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBaseHeavyMonolith
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBaseHeavyBanditL
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBaseHeavyBandit
+
+- type: loadout
+  id: ClothingOuterArmorHeavyUNTARL
+  equipment:
+    outerClothing: ClothingOuterArmorHeavyUNTAR
+
+- type: loadout
+  id: ClothingOuterArmorHeavyDebtL
+  equipment:
+    outerClothing: ClothingOuterArmorHeavyDebt
+
+- type: loadout
+  id: ClothingOuterArmorBulatCovenantL
+  equipment:
+    outerClothing: ClothingOuterArmorBulatCovenant
+
+- type: loadout
+  id: ClothingOuterArmorBulatMercenaryL
+  equipment:
+    outerClothing: ClothingOuterArmorBulatMercenary
+
+- type: loadout
+  id: ClothingOuterArmorBulatMonolithL
+  equipment:
+    outerClothing: ClothingOuterArmorBulatMonolith
+
+- type: loadout
+  id: ClothingOuterArmorBulatMilitaryL
+  equipment:
+    outerClothing: ClothingOuterArmorBulatMilitary
+
+- type: loadout
+  id: ClothingOuterArmorLegatDeserterL
+  equipment:
+    outerClothing: ClothingOuterArmorLegatDeserter
+
+- type: loadout
+  id: STClothingOuterArmorBerill5ML
+  equipment:
+    outerClothing: STClothingOuterArmorBerill5M
+
+- type: loadout
+  id: ClothingOuterArmorReingerL
+  equipment:
+    outerClothing: ClothingOuterArmorReinger
+
+- type: loadout
+  id: STClothingOuterArmorLightPlateVestBasePSZ7reneL
+  equipment:
+    outerClothing: STClothingOuterArmorLightPlateVestBasePSZ7rene
+
+- type: loadout
+  id: STClothingOuterArmorDesertersPSZ7L
+  equipment:
+    outerClothing: STClothingOuterArmorDesertersPSZ7
+
+- type: loadout
+  id: ClothingOuterArmor6B2L
+  equipment:
+    outerClothing: ClothingOuterArmor6B2
 
 - type: loadout
   id: STClothingOuterIOTVL

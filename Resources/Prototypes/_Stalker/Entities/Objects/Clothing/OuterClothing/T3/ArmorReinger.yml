@@ -26,17 +26,17 @@
       - 8,2,8,3
       - 8,-2,8,0
   - type: Armor
-    armorClass: 4
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 6
         Slash: 6
-        Piercing: 8
+        Piercing: 3
         Caustic: 1
       coefficients:
         Blunt: 0.60
         Slash: 0.45
-        Piercing: 0.70
+        Piercing: 0.80
         Heat: 0.45
         Caustic: 0.5
         Shock: 0.35
@@ -76,7 +76,7 @@
       coefficients:
         Blunt: 0.8
         Slash: 0.75
-        Piercing: 0.7
+        Piercing: 0.8
         Heat: 0.75
         Radiation: 0.75
         Caustic: 0.5
@@ -96,7 +96,7 @@
     highPressureMultiplier: 0.1
     lowPressureMultiplier: 1000
   - type: Reflect
-    reflectProb: 0.15
+    reflectProb: 0.10
     reflects:
       - NonEnergy
   - type: HideLayerClothing

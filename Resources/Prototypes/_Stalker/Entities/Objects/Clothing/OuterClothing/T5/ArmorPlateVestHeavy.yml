@@ -10,12 +10,12 @@
   - type: STWeight
     self: 19
   - type: Armor
-    armorClass: 5
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 5
         Slash: 5
-        Piercing: 8
+        Piercing: 6
       coefficients:
         Blunt: 0.7
         Slash: 0.7

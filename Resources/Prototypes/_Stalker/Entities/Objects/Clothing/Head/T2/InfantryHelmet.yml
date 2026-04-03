@@ -9,7 +9,7 @@
     self: 2.1
   - type: Craftable
   - type: Armor
-    armorClass: 2
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 1
@@ -21,7 +21,7 @@
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: Reflect
-    reflectProb: 0.05
+    reflectProb: 0.10
     spread: 360
     reflects:
       - NonEnergy
