@@ -50,6 +50,7 @@
   - STWeaponSMGThompsonL
   - STWeaponRifleOC14x939L
   - STWeaponSniperVSSL
+
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
   name: Плащ
