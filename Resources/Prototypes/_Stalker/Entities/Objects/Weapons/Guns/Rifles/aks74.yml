@@ -90,7 +90,7 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Gun
-    minAngle: 52
+    minAngle: 55
     maxAngle: 95
     angleIncrease: 1
     fireRate: 3
@@ -252,3 +252,27 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/aks74u-seraph.rsi
 
+- type: entity
+  parent: STBaseWeaponRifleAKS74
+  id: STWeaponRifleSaiga739
+  name: saiga 7.39
+  description: Civilian version of AK-74M with fixed stock. Popular among stalkers for reliability and ammo availability.
+  components:
+  - type: Clothing
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Item
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Sprite
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Gun
+    minAngle: 70
+    maxAngle: 95
+    angleIncrease: 1.4
+    fireRate: 3
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.45

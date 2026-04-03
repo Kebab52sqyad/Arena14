@@ -14,6 +14,10 @@
   - STWeaponRifleAKS74L
   - STWeaponRifleAKS74UL
   - STWeaponRifleFALL
+  - STWeaponSniperSKSL
+  - STWeaponRifleM16L
+  - STWeaponSniperMosinL
+  - STWeaponRifleSCARLL
 
 - type: loadoutGroup
   id: ArenaSniperGunsLoadoutGroup
@@ -44,7 +48,8 @@
   - STWeaponRifleAK203L
   - STWeaponRifleSCARHL
   - STWeaponSMGThompsonL
-
+  - STWeaponRifleOC14x939L
+  - STWeaponSniperVSSL
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
   name: Плащ
@@ -71,6 +76,7 @@
   - ClothingBeltWebbingArenaP90L
   - ClothingBeltWebbingArenaSaigaL
   - ClothingBeltWebbingArena919TommyDrumL
+  -
 
 - type: loadoutGroup
   id: ArenaT2LoadoutGroupArmour

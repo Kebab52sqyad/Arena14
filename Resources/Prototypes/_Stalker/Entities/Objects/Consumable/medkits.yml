@@ -372,10 +372,11 @@
   - type: Healing
     damage:
       types:
-        Piercing: -20
+        Piercing: -30
         Blunt: -10
         Slash: -20
-    delay: 3
+        bloodlossModifier: -10
+    delay: 2
   - type: Stack
     stackType: MedkitMilitary
     count: 4

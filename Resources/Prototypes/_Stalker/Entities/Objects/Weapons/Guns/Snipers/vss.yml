@@ -19,7 +19,7 @@
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/n_vintorez_shot.ogg
       volume: -10
-    minAngle: 50
+    minAngle: 45
     maxAngle: 85
     angleIncrease: 2
     angleDecay: 20

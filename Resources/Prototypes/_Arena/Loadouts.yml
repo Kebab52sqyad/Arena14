@@ -58,9 +58,14 @@
     suitstorage: STWeaponRifleSCARH
 
 - type: loadout
+  id: STWeaponRifleSCARLL
+  equipment:
+    suitstorage: STWeaponRifleSCARL
+
+- type: loadout
   id: STWeaponRifleG36L
   equipment:
-    suitstorage: STBaseWeaponRifleG36
+    suitstorage: STWeaponRifleG36
 
 - type: loadout
   id: STWeaponRifleSIG550L
@@ -96,6 +101,16 @@
   id: STWeaponRifleAKML
   equipment:
     suitstorage: STWeaponRifleAKM
+
+- type: loadout
+  id: STWeaponRifleAKMCL
+  equipment:
+    suitstorage: STWeaponRifleAKMC
+
+- type: loadout
+  id: STWeaponRifleSaiga545L
+  equipment:
+    suitstorage: STWeaponRifleSaiga545
 
 - type: loadout
   id: STWeaponRifleL85L
@@ -136,6 +151,16 @@
   id: STWeaponMachineGunM249SAWL
   equipment:
     suitstorage: STWeaponMachineGunM249SAW
+
+- type: loadout
+  id: STWeaponRifleOC14x939L
+  equipment:
+    suitstorage: STWeaponRifleOC14x939
+
+- type: loadout
+  id: STWeaponSniperVSSL
+  equipment:
+    suitstorage: STWeaponSniperVSS
 
 - type: loadout
   id: STWeaponSMGFNP90L
