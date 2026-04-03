@@ -11,12 +11,12 @@
   - type: Clothing
     sprite: _Stalker/Objects/Clothing/outerClothing/bulat_military.rsi
   - type: Armor
-    armorClass: 5
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 7
         Slash: 7
-        Piercing: 8
+        Piercing: 6
         Radiation: 4
       coefficients:
         Blunt: 0.65

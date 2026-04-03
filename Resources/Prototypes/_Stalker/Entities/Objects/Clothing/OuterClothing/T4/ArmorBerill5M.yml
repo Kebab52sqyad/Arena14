@@ -28,7 +28,7 @@
       - 9,-0,9,-0
       - 10,2,10,3
   - type: Armor
-    armorClass: 4
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 5

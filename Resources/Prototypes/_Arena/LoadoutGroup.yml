@@ -100,6 +100,23 @@
   - STClothingOuterIOTVL
   - STClothingOuterKoryndL
   - ClothingOuterArmorZaryaStalkerL
+  - STClothingOuterHeavyRedutL
+  - STClothingOuterArmorLightPlateVestBaseHeavyMilitaryL
+  - STClothingOuterArmorLightPlateVestBaseHeavyMonolithL
+  - STClothingOuterArmorLightPlateVestBaseHeavyBanditL
+  - ClothingOuterArmorHeavyUNTARL
+  - ClothingOuterArmorHeavyDebtL
+  - ClothingOuterArmorBulatCovenantL
+  - ClothingOuterArmorBulatMercenaryL
+  - ClothingOuterArmorBulatMonolithL
+  - ClothingOuterArmorBulatMilitaryL
+  - ClothingOuterArmorLegatDeserterL
+  - STClothingOuterArmorBerill5ML
+  - ClothingOuterArmor6B13L
+  - ClothingOuterArmorReingerL
+  - STClothingOuterArmorLightPlateVestBasePSZ7reneL
+  - STClothingOuterArmorDesertersPSZ7L
+  - ClothingOuterArmor6B2L
 
 
 - type: loadoutGroup
@@ -115,6 +132,18 @@
   - ClothingHeadHelmetBerill5MMilitaryL
   - ClothingHeadHelmetVityaz1BL
   - ClothingHeadHelmetInfantryL
+  - ClothingHeadHelmetPSZ9DL
+  - ClothingHeadHelmet1SHBanditL
+  - ClothingHeadHelmetUlachL
+  - ClothingHeadHelmetUlachUNL
+  - ClothingHeadHelmetHardUlachUNL
+  - ClothingHeadRatnikL
+  - ClothingHeadHelmetVityaz1ML
+  - ClothingHeadHelmetVityaz1TL
+  - ClothingHeadAssaultHelmetMilitaryL
+  - ClothingHeadAssaultHelmetBanditL
+  - ClothingHeadAssaultHelmetDolgL
+  - ClothingHeadAssaultHelmetL
 
 - type: loadoutGroup
   id: ArenaLegsLoadoutGroup
