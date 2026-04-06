@@ -79,7 +79,7 @@
 - type: entity
   parent: STBaseWeaponRifleAK103
   id: STWeaponRifleAK203
-  name: AK-203
+  name: AEK
   description: Latest evolution of Kalashnikov rifle. Rare in the Zone, usually comes with military expeditions. Retains all advantages of 103 model with improved ergonomics.
   components:
   - type: Clothing
@@ -91,12 +91,41 @@
   - type: Gun
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/203_Sound.ogg
-    minAngle: 50
+    minAngle: 52
     maxAngle: 95
-    angleIncrease: 1.25
+    angleIncrease: 1
     angleDecay: 8
-    fireRate: 7
+    fireRate: 9
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.85
   - type: STWeaponAccuracy
     accuracyMultiplier: 1.65
+  - type: ItemSlots
+    slots:
+      gun_magazine:
+        name: Magazine
+        startingItem: Base545Mag10
+        insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
+        ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
+        priority: 4
+        whitelist:
+          tags:
+          - Magazine545
+      gun_module_muzzle:
+        name: Muzzle
+        priority: 3
+        whitelist:
+          tags:
+          - STWeaponModuleRifleSilencerRu
+      gun_module_scope:
+        name: Scope
+        priority: 2
+        whitelist:
+          tags:
+          - STWeaponModuleRifleScopeRu
+      gun_chamber:
+        name: Chamber
+        priority: 1
+        whitelist:
+          tags:
+          - STCartridge545
