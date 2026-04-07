@@ -710,34 +710,3 @@
   equipment:
     belt: ClothingBeltWebbingArena919TommyDrum
 
-# neck
-
-- type: loadout
-  id: ClothingBandageStalkerRusL
-  equipment:
-    neck: ClothingBandageStalkerRus
-
-- type: loadout
-  id: ClothingBandageStalkerUkL
-  equipment:
-    neck: ClothingBandageStalkerUk
-
-- type: loadout
-  id: ClothingBandageStalkerPetuhL
-  equipment:
-    neck: ClothingBandageStalkerPetuh
-
-- type: loadout
-  id: ClothingBandageStalkerBelarusL
-  equipment:
-    neck: ClothingBandageStalkerBelarus
-
-- type: loadout
-  id: ClothingBandageStalkerJidL
-  equipment:
-    neck: ClothingBandageStalkerJid
-
-- type: loadout
-  id: ClothingBandageStalkerDNRL
-  equipment:
-    neck: ClothingBandageStalkerDNR
