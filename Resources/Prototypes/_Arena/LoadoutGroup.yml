@@ -191,15 +191,3 @@
   - ClothingTorsoTurtlenecksUa2L
   - ClothingTorsoTurtlenecksMonolithCamouflageL
 
-- type: loadoutGroup
-  id: ArenaNeckLoadoutGroup
-  name: Флаги
-  minLimit: 0
-  maxLimit: 1
-  loadouts:
-  - ClothingBandageStalkerRusL
-  - ClothingBandageStalkerUkL
-  - ClothingBandageStalkerPetuhL
-  - ClothingBandageStalkerBelarusL
-  - ClothingBandageStalkerJidL
-  - ClothingBandageStalkerDNRL
