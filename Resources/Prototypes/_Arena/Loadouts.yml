@@ -589,6 +589,31 @@
     outerClothing: STClothingOuterKorynd
 
 - type: loadout
+  id: ClothingOuterArmorFirstbornSeraphimesL
+  equipment:
+    outerClothing: ClothingOuterArmorFirstbornSeraphimes
+
+- type: loadout
+  id: ClothingOuterArmorFreedomDefenderL
+  equipment:
+    outerClothing: ClothingOuterArmorFreedomDefender
+
+- type: loadout
+  id: ClothingOuterArmorDolgPS5ML
+  equipment:
+    outerClothing: ClothingOuterArmorDolgPS5M
+
+- type: loadout
+  id: ClothingOuterArmorMercL
+  equipment:
+    outerClothing: ClothingOuterArmorMerc
+
+- type: loadout
+  id: ClothingOuterArmorBanditsL
+  equipment:
+    outerClothing: ClothingOuterArmorBandits
+
+- type: loadout
   id: ClothingOuterArmorZaryaStalkerL
   equipment:
     outerClothing: ClothingOuterArmorZaryaStalker
