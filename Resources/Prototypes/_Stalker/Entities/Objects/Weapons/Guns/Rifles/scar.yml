@@ -67,51 +67,6 @@
 
 - type: entity
   parent: STBaseWeaponRifleSCARH
-  id: STWeaponRifleSCARL
-  name: SCAR-L
-  description: Short-barreled SCAR-L variant for close quarters combat. Gained mobility but lost accuracy in Zone conditions.
-  components:
-  - type: Clothing
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/scar_short.rsi
-  - type: Item
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/scar_short.rsi
-    shape:
-    - 0,0,4,1
-  - type: Sprite
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/scar_short.rsi
-  - type: ItemSlots
-    slots:
-      gun_magazine:
-        name: Base556Mag10
-        startingItem: Maga
-        insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
-        ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
-        priority: 4
-        whitelist:
-          tags:
-          - Magazine556
-      gun_module_muzzle:
-        name: Muzzle
-        priority: 3
-        whitelist:
-          tags:
-          - STWeaponModuleRifleSilencerNato
-      gun_module_scope:
-        name: Scope
-        priority: 2
-        whitelist:
-          tags:
-          - STWeaponModuleRifleScopeNato
-      gun_chamber:
-        name: Chamber
-        startingItem:
-        priority: 1
-        whitelist:
-          tags:
-          - STCartridge556
-
-- type: entity
-  parent: STBaseWeaponRifleSCARH
   id: STWeaponRifleARX160
   name: beretta ARX-160
   description: Italian assault rifle from 'Soldier of the Future' program. Appeared in the Zone via private military companies. Lighter but less powerful than SCAR.
