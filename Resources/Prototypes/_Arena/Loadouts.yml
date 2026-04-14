@@ -7,7 +7,6 @@
   - ArenaHeadLoadoutGroup
   - ArenaLegsLoadoutGroup
   - ArenaTorsoLoadoutGroup
-  - ArenaNeckLoadoutGroup
 
 - type: roleLoadout
   id: JobArenologSniper
@@ -18,7 +17,6 @@
   - ArenaHeadLoadoutGroup
   - ArenaLegsLoadoutGroup
   - ArenaTorsoLoadoutGroup
-  - ArenaNeckLoadoutGroup
 
 - type: roleLoadout
   id: JobArenologLimansk
@@ -30,7 +28,6 @@
   - ArenaHeadLoadoutGroup
   - ArenaLegsLoadoutGroup
   - ArenaTorsoLoadoutGroup
-  - ArenaNeckLoadoutGroup
 
 # cloaks
 - type: loadout
@@ -59,11 +56,6 @@
   id: STWeaponRifleSCARHL
   equipment:
     suitstorage: STWeaponRifleSCARH
-
-- type: loadout
-  id: STWeaponRifleSCARLL
-  equipment:
-    suitstorage: STWeaponRifleSCARL
 
 - type: loadout
   id: STWeaponRifleG36L
@@ -154,11 +146,6 @@
   id: STWeaponMachineGunM249SAWL
   equipment:
     suitstorage: STWeaponMachineGunM249SAW
-
-- type: loadout
-  id: STWeaponRifleOC14x939L
-  equipment:
-    suitstorage: STWeaponRifleOC14x939
 
 - type: loadout
   id: STWeaponSniperVSSL
@@ -710,3 +697,7 @@
   equipment:
     belt: ClothingBeltWebbingArena919TommyDrum
 
+- type: loadout
+  id: ClothingBeltWebbingArena939MagL
+  equipment:
+    belt: ClothingBeltWebbingArena939Mag

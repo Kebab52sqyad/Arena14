@@ -8,7 +8,7 @@
   - type: STWeight
     self: 2.1
   - type: Armor
-    armorClass: 5
+    armorClass: 3
     modifiers:
       flatReductions:
         Blunt: 4
@@ -19,7 +19,7 @@
   - type: ExplosionResistance
     damageCoefficient: 0.90
   - type: Reflect
-    reflectProb: 0.16
+    reflectProb: 0.10
     spread: 360
     reflects:
       - NonEnergy

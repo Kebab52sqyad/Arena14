@@ -355,7 +355,7 @@
 
 - type: entity
   id: Arena939Mag20
-  name: Магазиy 9x39 (20)
+  name: Магазин 9x39 (20)
   description: Магазин 39 мм для Грозы,Вала,ВСС. Вместимость пуль 20. Продают пустым.
   parent: 939Mag20
   tag: Stalker

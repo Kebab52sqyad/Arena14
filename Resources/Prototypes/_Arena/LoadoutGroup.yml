@@ -17,7 +17,6 @@
   - STWeaponSniperSKSL
   - STWeaponRifleM16L
   - STWeaponSniperMosinL
-  - STWeaponRifleSCARLL
 
 - type: loadoutGroup
   id: ArenaSniperGunsLoadoutGroup
@@ -48,7 +47,6 @@
   - STWeaponRifleAK203L
   - STWeaponRifleSCARHL
   - STWeaponSMGThompsonL
-  - STWeaponRifleOC14x939L
   - STWeaponSniperVSSL
 
 - type: loadoutGroup
@@ -77,7 +75,7 @@
   - ClothingBeltWebbingArenaP90L
   - ClothingBeltWebbingArenaSaigaL
   - ClothingBeltWebbingArena919TommyDrumL
-  -
+  - ClothingBeltWebbingArena939MagL
 
 - type: loadoutGroup
   id: ArenaT2LoadoutGroupArmour
@@ -123,7 +121,6 @@
   - ClothingOuterArmorFreedomDefenderL
   - ClothingOuterArmorFirstbornSeraphimesL
 
-
 - type: loadoutGroup
   id: ArenaHeadLoadoutGroup
   name: Головной Убор
@@ -132,13 +129,11 @@
   loadouts:
   - ClothingHeadHatCatEarsL
   - ClothingHeadHatUshankaL
-  - STClothingHeadHelmetCombatT3BaseL
   - ClothingHeadAssaultHelmetDeserterL
   - ClothingHeadHelmetBerill5MMilitaryL
   - ClothingHeadHelmetVityaz1BL
   - ClothingHeadHelmetInfantryL
   - ClothingHeadHelmetPSZ9DL
-  - ClothingHeadHelmet1SHBanditL
   - ClothingHeadHelmetUlachL
   - ClothingHeadHelmetUlachUNL
   - ClothingHeadHelmetHardUlachUNL
@@ -190,4 +185,3 @@
   - ClothingTorsoTurtlenecksUaL
   - ClothingTorsoTurtlenecksUa2L
   - ClothingTorsoTurtlenecksMonolithCamouflageL
-
