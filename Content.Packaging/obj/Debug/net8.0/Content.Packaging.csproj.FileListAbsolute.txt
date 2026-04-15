@@ -70,3 +70,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Packaging\obj\Debug\net8.0\re
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Packaging\obj\Debug\net8.0\Content.Packaging.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Packaging\obj\Debug\net8.0\Content.Packaging.genruntimeconfig.cache
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Packaging\obj\Debug\net8.0\ref\Content.Packaging.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Packaging\obj\Debug\net8.0\Content.Packaging.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Packaging\obj\Debug\net8.0\refint\Content.Packaging.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Packaging\obj\Debug\net8.0\Content.Packaging.pdb

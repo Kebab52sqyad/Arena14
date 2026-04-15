@@ -49,21 +49,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamka1337\\.nuget\\packages\\": {}
+    "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.PatreonParser\\Content.PatreonParser.csproj",
+      "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.PatreonParser\\Content.PatreonParser.csproj",
       "projectName": "Content.PatreonParser",
-      "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.PatreonParser\\Content.PatreonParser.csproj",
-      "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.PatreonParser\\obj\\",
+      "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.PatreonParser\\Content.PatreonParser.csproj",
+      "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.PatreonParser\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
-        "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-        "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+        "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -203,16 +203,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-eng/nuget/v3/index.json."
-    }
-  ]
+  }
 }

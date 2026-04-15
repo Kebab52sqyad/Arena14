@@ -65,3 +65,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Tools\obj\Debug\net8.0\refint
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Tools\obj\Debug\net8.0\Content.Tools.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Tools\obj\Debug\net8.0\Content.Tools.genruntimeconfig.cache
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Tools\obj\Debug\net8.0\ref\Content.Tools.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Tools\obj\Debug\net8.0\Content.Tools.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Tools\obj\Debug\net8.0\refint\Content.Tools.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Tools\obj\Debug\net8.0\Content.Tools.pdb

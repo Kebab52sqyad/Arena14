@@ -16,3 +16,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.PatreonParser\obj\Debug\net7.
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.PatreonParser\obj\Debug\net7.0\Content.PatreonParser.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.PatreonParser\obj\Debug\net7.0\Content.PatreonParser.genruntimeconfig.cache
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.PatreonParser\obj\Debug\net7.0\ref\Content.PatreonParser.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.PatreonParser\obj\Debug\net7.0\Content.PatreonParser.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.PatreonParser\obj\Debug\net7.0\refint\Content.PatreonParser.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.PatreonParser\obj\Debug\net7.0\Content.PatreonParser.pdb

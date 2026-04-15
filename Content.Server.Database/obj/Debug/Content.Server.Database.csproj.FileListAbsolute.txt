@@ -14,3 +14,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\ref
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.genruntimeconfig.cache
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Server.Database\obj\Debug\ref\Content.Server.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Server.Database\obj\Debug\refint\Content.Server.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Server.Database\obj\Debug\Content.Server.Database.pdb
