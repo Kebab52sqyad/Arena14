@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Client\\Content.Client.csproj": {}
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Client\\Content.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Client\\Content.Client.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Client\\Content.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Client\\Content.Client.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Client\\Content.Client.csproj",
         "projectName": "Content.Client",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Client\\Content.Client.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Client\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Client\\Content.Client.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Client\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -30,26 +30,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
               }
             }
           }
@@ -161,23 +161,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
         "projectName": "Content.Shared.Database",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -292,23 +292,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj",
         "projectName": "Content.Shared",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -322,17 +322,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
               }
             }
           }
@@ -439,22 +439,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj",
         "projectName": "Content.Corvax.Interfaces.Client",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\Content.Corvax.Interfaces.Client.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -468,11 +468,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj"
               }
             }
           }
@@ -491,6 +491,75 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "BenchmarkDotNet": "0.13.12",
+            "CsvHelper": "30.0.1",
+            "DiscordRichPresence": "1.2.1.24",
+            "ILReader.Core": "1.0.0.4",
+            "ImGui.NET": "1.87.3",
+            "JetBrains.Annotations": "2023.3.0",
+            "JetBrains.Profiler.Api": "1.4.0",
+            "Linguini.Bundle": "0.8.1",
+            "Microsoft.CodeAnalysis.Analyzer.Testing": "1.1.1",
+            "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+            "Microsoft.CodeAnalysis.Common": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.Features": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+            "Microsoft.CodeCoverage": "17.8.0",
+            "Microsoft.Data.Sqlite.Core": "8.0.0",
+            "Microsoft.DotNet.RemoteExecutor": "8.0.0-beta.24059.4",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.0",
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": "8.0.0",
+            "Microsoft.Extensions.DependencyInjection": "8.0.0",
+            "Microsoft.Extensions.Logging": "8.0.0",
+            "Microsoft.Extensions.ObjectPool": "8.0.0",
+            "Microsoft.Extensions.Primitives": "8.0.0",
+            "Microsoft.ILVerification": "8.0.0",
+            "Microsoft.IO.RecyclableMemoryStream": "3.0.0",
+            "Microsoft.NET.ILLink.Tasks": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Microsoft.Win32.Registry": "5.0.0",
+            "Moq": "4.20.70",
+            "Nett": "0.15.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
+            "NUnit": "4.0.1",
+            "NUnit.Analyzers": "3.10.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenTK": "4.7.2",
+            "OpenTK.OpenAL": "4.7.7",
+            "OpenToolkit.Graphics": "4.0.0-pre9.1",
+            "Pidgin": "3.2.2",
+            "PolySharp": "1.14.1",
+            "prometheus-net": "8.2.1",
+            "prometheus-net.DotNetRuntime": "4.4.0",
+            "Robust.Natives": "0.1.1",
+            "Robust.Natives.Cef": "120.1.9",
+            "Robust.Shared.AuthLib": "0.1.2",
+            "Serilog": "3.1.1",
+            "Serilog.Sinks.Loki": "4.0.0-beta3",
+            "SharpZstd.Interop": "1.5.2-beta2",
+            "SixLabors.ImageSharp": "3.1.5",
+            "SpaceWizards.HttpListener": "0.1.1",
+            "SpaceWizards.NFluidsynth": "0.1.1",
+            "SpaceWizards.SharpFont": "1.0.2",
+            "SpaceWizards.Sodium": "0.2.1",
+            "SQLitePCLRaw.bundle_e_sqlite3": "2.1.7",
+            "SQLitePCLRaw.provider.sqlite3": "2.1.7",
+            "System.Memory": "4.5.5",
+            "System.Numerics.Vectors": "4.5.0",
+            "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+            "TerraFX.Interop.Windows": "10.0.22621.5",
+            "TerraFX.Interop.Xlib": "6.4.0",
+            "Veldrid": "4.8.0",
+            "Veldrid.SPIRV": "1.0.15",
+            "VorbisPizza": "1.3.0",
+            "YamlDotNet": "13.7.1"
+          },
           "imports": [
             "net461",
             "net462",
@@ -507,22 +576,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj",
         "projectName": "Content.Corvax.Interfaces.Shared",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -536,8 +605,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
               }
             }
           }
@@ -556,6 +625,75 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "BenchmarkDotNet": "0.13.12",
+            "CsvHelper": "30.0.1",
+            "DiscordRichPresence": "1.2.1.24",
+            "ILReader.Core": "1.0.0.4",
+            "ImGui.NET": "1.87.3",
+            "JetBrains.Annotations": "2023.3.0",
+            "JetBrains.Profiler.Api": "1.4.0",
+            "Linguini.Bundle": "0.8.1",
+            "Microsoft.CodeAnalysis.Analyzer.Testing": "1.1.1",
+            "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+            "Microsoft.CodeAnalysis.Common": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.Features": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+            "Microsoft.CodeCoverage": "17.8.0",
+            "Microsoft.Data.Sqlite.Core": "8.0.0",
+            "Microsoft.DotNet.RemoteExecutor": "8.0.0-beta.24059.4",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.0",
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": "8.0.0",
+            "Microsoft.Extensions.DependencyInjection": "8.0.0",
+            "Microsoft.Extensions.Logging": "8.0.0",
+            "Microsoft.Extensions.ObjectPool": "8.0.0",
+            "Microsoft.Extensions.Primitives": "8.0.0",
+            "Microsoft.ILVerification": "8.0.0",
+            "Microsoft.IO.RecyclableMemoryStream": "3.0.0",
+            "Microsoft.NET.ILLink.Tasks": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Microsoft.Win32.Registry": "5.0.0",
+            "Moq": "4.20.70",
+            "Nett": "0.15.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
+            "NUnit": "4.0.1",
+            "NUnit.Analyzers": "3.10.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenTK": "4.7.2",
+            "OpenTK.OpenAL": "4.7.7",
+            "OpenToolkit.Graphics": "4.0.0-pre9.1",
+            "Pidgin": "3.2.2",
+            "PolySharp": "1.14.1",
+            "prometheus-net": "8.2.1",
+            "prometheus-net.DotNetRuntime": "4.4.0",
+            "Robust.Natives": "0.1.1",
+            "Robust.Natives.Cef": "120.1.9",
+            "Robust.Shared.AuthLib": "0.1.2",
+            "Serilog": "3.1.1",
+            "Serilog.Sinks.Loki": "4.0.0-beta3",
+            "SharpZstd.Interop": "1.5.2-beta2",
+            "SixLabors.ImageSharp": "3.1.5",
+            "SpaceWizards.HttpListener": "0.1.1",
+            "SpaceWizards.NFluidsynth": "0.1.1",
+            "SpaceWizards.SharpFont": "1.0.2",
+            "SpaceWizards.Sodium": "0.2.1",
+            "SQLitePCLRaw.bundle_e_sqlite3": "2.1.7",
+            "SQLitePCLRaw.provider.sqlite3": "2.1.7",
+            "System.Memory": "4.5.5",
+            "System.Numerics.Vectors": "4.5.0",
+            "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+            "TerraFX.Interop.Windows": "10.0.22621.5",
+            "TerraFX.Interop.Xlib": "6.4.0",
+            "Veldrid": "4.8.0",
+            "Veldrid.SPIRV": "1.0.15",
+            "VorbisPizza": "1.3.0",
+            "YamlDotNet": "13.7.1"
+          },
           "imports": [
             "net461",
             "net462",
@@ -572,23 +710,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj": {
       "version": "237.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj",
         "projectName": "Avalonia.Base",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -613,6 +750,69 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "BenchmarkDotNet": "0.13.12",
+            "DiscordRichPresence": "1.2.1.24",
+            "ILReader.Core": "1.0.0.4",
+            "JetBrains.Annotations": "2023.3.0",
+            "JetBrains.Profiler.Api": "1.4.0",
+            "Linguini.Bundle": "0.8.1",
+            "Microsoft.CodeAnalysis.Analyzer.Testing": "1.1.1",
+            "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+            "Microsoft.CodeAnalysis.Common": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.Features": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+            "Microsoft.CodeCoverage": "17.8.0",
+            "Microsoft.Data.Sqlite.Core": "8.0.0",
+            "Microsoft.DotNet.RemoteExecutor": "8.0.0-beta.24059.4",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.0",
+            "Microsoft.Extensions.DependencyInjection": "8.0.0",
+            "Microsoft.Extensions.Logging": "8.0.0",
+            "Microsoft.Extensions.ObjectPool": "8.0.0",
+            "Microsoft.Extensions.Primitives": "8.0.0",
+            "Microsoft.ILVerification": "8.0.0",
+            "Microsoft.IO.RecyclableMemoryStream": "3.0.0",
+            "Microsoft.NET.ILLink.Tasks": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Microsoft.Win32.Registry": "5.0.0",
+            "Moq": "4.20.70",
+            "Nett": "0.15.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
+            "NUnit": "4.0.1",
+            "NUnit.Analyzers": "3.10.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenTK.OpenAL": "4.7.7",
+            "OpenToolkit.Graphics": "4.0.0-pre9.1",
+            "Pidgin": "3.2.2",
+            "PolySharp": "1.14.1",
+            "prometheus-net": "8.2.1",
+            "prometheus-net.DotNetRuntime": "4.4.0",
+            "Robust.Natives": "0.1.1",
+            "Robust.Natives.Cef": "120.1.9",
+            "Robust.Shared.AuthLib": "0.1.2",
+            "Serilog": "3.1.1",
+            "Serilog.Sinks.Loki": "4.0.0-beta3",
+            "SharpZstd.Interop": "1.5.2-beta2",
+            "SixLabors.ImageSharp": "3.1.5",
+            "SpaceWizards.HttpListener": "0.1.1",
+            "SpaceWizards.NFluidsynth": "0.1.1",
+            "SpaceWizards.SharpFont": "1.0.2",
+            "SpaceWizards.Sodium": "0.2.1",
+            "SQLitePCLRaw.bundle_e_sqlite3": "2.1.7",
+            "SQLitePCLRaw.provider.sqlite3": "2.1.7",
+            "System.Memory": "4.5.5",
+            "System.Numerics.Vectors": "4.5.0",
+            "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+            "TerraFX.Interop.Windows": "10.0.22621.5",
+            "TerraFX.Interop.Xlib": "6.4.0",
+            "VorbisPizza": "1.3.0",
+            "YamlDotNet": "13.7.1"
+          },
           "imports": [
             "net461",
             "net462",
@@ -629,24 +829,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj",
         "projectName": "SpaceWizards.Lidgren.Network",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -755,86 +954,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj": {
       "version": "4.1.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj",
         "projectName": "Robust.NetSerializer",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-eng/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj",
-        "projectName": "OpenToolkit.GraphicsLibraryFramework",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\obj\\",
-        "projectStyle": "PackageReference",
-        "centralPackageVersionsManagementEnabled": true,
-        "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -943,24 +1078,148 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
-      "version": "237.2.0",
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj",
-        "projectName": "Robust.Client",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Client\\obj\\",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj",
+        "projectName": "OpenToolkit.GraphicsLibraryFramework",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-eng/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "BenchmarkDotNet": "0.13.12",
+            "DiscordRichPresence": "1.2.1.24",
+            "ILReader.Core": "1.0.0.4",
+            "JetBrains.Annotations": "2023.3.0",
+            "JetBrains.Profiler.Api": "1.4.0",
+            "Linguini.Bundle": "0.8.1",
+            "Microsoft.CodeAnalysis.Analyzer.Testing": "1.1.1",
+            "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+            "Microsoft.CodeAnalysis.Common": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.Features": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+            "Microsoft.CodeCoverage": "17.8.0",
+            "Microsoft.Data.Sqlite.Core": "8.0.0",
+            "Microsoft.DotNet.RemoteExecutor": "8.0.0-beta.24059.4",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.0",
+            "Microsoft.Extensions.DependencyInjection": "8.0.0",
+            "Microsoft.Extensions.Logging": "8.0.0",
+            "Microsoft.Extensions.ObjectPool": "8.0.0",
+            "Microsoft.Extensions.Primitives": "8.0.0",
+            "Microsoft.ILVerification": "8.0.0",
+            "Microsoft.IO.RecyclableMemoryStream": "3.0.0",
+            "Microsoft.NET.ILLink.Tasks": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Microsoft.Win32.Registry": "5.0.0",
+            "Moq": "4.20.70",
+            "Nett": "0.15.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
+            "NUnit": "4.0.1",
+            "NUnit.Analyzers": "3.10.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenTK.OpenAL": "4.7.7",
+            "OpenToolkit.Graphics": "4.0.0-pre9.1",
+            "Pidgin": "3.2.2",
+            "PolySharp": "1.14.1",
+            "prometheus-net": "8.2.1",
+            "prometheus-net.DotNetRuntime": "4.4.0",
+            "Robust.Natives": "0.1.1",
+            "Robust.Natives.Cef": "120.1.9",
+            "Robust.Shared.AuthLib": "0.1.2",
+            "Serilog": "3.1.1",
+            "Serilog.Sinks.Loki": "4.0.0-beta3",
+            "SharpZstd.Interop": "1.5.2-beta2",
+            "SixLabors.ImageSharp": "3.1.5",
+            "SpaceWizards.HttpListener": "0.1.1",
+            "SpaceWizards.NFluidsynth": "0.1.1",
+            "SpaceWizards.SharpFont": "1.0.2",
+            "SpaceWizards.Sodium": "0.2.1",
+            "SQLitePCLRaw.bundle_e_sqlite3": "2.1.7",
+            "SQLitePCLRaw.provider.sqlite3": "2.1.7",
+            "System.Memory": "4.5.5",
+            "System.Numerics.Vectors": "4.5.0",
+            "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+            "TerraFX.Interop.Windows": "10.0.22621.5",
+            "TerraFX.Interop.Xlib": "6.4.0",
+            "VorbisPizza": "1.3.0",
+            "YamlDotNet": "13.7.1"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj": {
+      "version": "237.2.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj",
+        "projectName": "Robust.Client",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\Robust.Client.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -974,23 +1233,23 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Avalonia.Base\\Avalonia.Base.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\OpenToolkit.GraphicsLibraryFramework\\OpenToolkit.GraphicsLibraryFramework.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
               }
             }
           }
@@ -1175,23 +1434,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj",
         "projectName": "Robust.LoaderApi",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\Robust.LoaderApi.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.LoaderApi\\Robust.LoaderApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -1221,6 +1479,69 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "centralPackageVersions": {
+            "BenchmarkDotNet": "0.13.12",
+            "DiscordRichPresence": "1.2.1.24",
+            "ILReader.Core": "1.0.0.4",
+            "JetBrains.Annotations": "2023.3.0",
+            "JetBrains.Profiler.Api": "1.4.0",
+            "Linguini.Bundle": "0.8.1",
+            "Microsoft.CodeAnalysis.Analyzer.Testing": "1.1.1",
+            "Microsoft.CodeAnalysis.Analyzers": "3.3.4",
+            "Microsoft.CodeAnalysis.Common": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.NUnit": "1.1.1",
+            "Microsoft.CodeAnalysis.CSharp.Features": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Scripting": "4.8.0",
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+            "Microsoft.CodeAnalysis.Workspaces.Common": "4.8.0",
+            "Microsoft.CodeCoverage": "17.8.0",
+            "Microsoft.Data.Sqlite.Core": "8.0.0",
+            "Microsoft.DotNet.RemoteExecutor": "8.0.0-beta.24059.4",
+            "Microsoft.EntityFrameworkCore.Design": "8.0.0",
+            "Microsoft.Extensions.DependencyInjection": "8.0.0",
+            "Microsoft.Extensions.Logging": "8.0.0",
+            "Microsoft.Extensions.ObjectPool": "8.0.0",
+            "Microsoft.Extensions.Primitives": "8.0.0",
+            "Microsoft.ILVerification": "8.0.0",
+            "Microsoft.IO.RecyclableMemoryStream": "3.0.0",
+            "Microsoft.NET.ILLink.Tasks": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.8.0",
+            "Microsoft.Win32.Registry": "5.0.0",
+            "Moq": "4.20.70",
+            "Nett": "0.15.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.0",
+            "NUnit": "4.0.1",
+            "NUnit.Analyzers": "3.10.0",
+            "NUnit3TestAdapter": "4.5.0",
+            "OpenTK.OpenAL": "4.7.7",
+            "OpenToolkit.Graphics": "4.0.0-pre9.1",
+            "Pidgin": "3.2.2",
+            "PolySharp": "1.14.1",
+            "prometheus-net": "8.2.1",
+            "prometheus-net.DotNetRuntime": "4.4.0",
+            "Robust.Natives": "0.1.1",
+            "Robust.Natives.Cef": "120.1.9",
+            "Robust.Shared.AuthLib": "0.1.2",
+            "Serilog": "3.1.1",
+            "Serilog.Sinks.Loki": "4.0.0-beta3",
+            "SharpZstd.Interop": "1.5.2-beta2",
+            "SixLabors.ImageSharp": "3.1.5",
+            "SpaceWizards.HttpListener": "0.1.1",
+            "SpaceWizards.NFluidsynth": "0.1.1",
+            "SpaceWizards.SharpFont": "1.0.2",
+            "SpaceWizards.Sodium": "0.2.1",
+            "SQLitePCLRaw.bundle_e_sqlite3": "2.1.7",
+            "SQLitePCLRaw.provider.sqlite3": "2.1.7",
+            "System.Memory": "4.5.5",
+            "System.Numerics.Vectors": "4.5.0",
+            "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+            "TerraFX.Interop.Windows": "10.0.22621.5",
+            "TerraFX.Interop.Xlib": "6.4.0",
+            "VorbisPizza": "1.3.0",
+            "YamlDotNet": "13.7.1"
+          },
           "imports": [
             "net461",
             "net462",
@@ -1237,24 +1558,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
       "version": "237.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj",
         "projectName": "Robust.Shared.Maths",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -1366,24 +1686,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
       "version": "237.2.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj",
         "projectName": "Robust.Shared",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NuGet.Config",
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -1397,14 +1716,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\NetSerializer\\NetSerializer\\NetSerializer.csproj"
               },
-              "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
-                "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
+              "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+                "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
               }
             }
           }
@@ -1592,7 +1911,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

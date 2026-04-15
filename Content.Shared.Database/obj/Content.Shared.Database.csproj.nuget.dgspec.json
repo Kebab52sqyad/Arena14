@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {}
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
+    "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
+        "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
         "projectName": "Content.Shared.Database",
-        "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
-        "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\obj\\",
+        "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj",
+        "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
-          "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-          "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+          "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -131,7 +131,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

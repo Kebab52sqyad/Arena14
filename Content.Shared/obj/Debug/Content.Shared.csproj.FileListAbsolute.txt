@@ -16,3 +16,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared\obj\Debug\Content.Shar
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared\obj\Debug\refint\Content.Shared.dll
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared\obj\Debug\Content.Shared.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared\obj\Debug\ref\Content.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared\obj\Debug\Content.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared\obj\Debug\refint\Content.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared\obj\Debug\Content.Shared.pdb

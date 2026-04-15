@@ -6980,21 +6980,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamka1337\\.nuget\\packages\\": {}
+    "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Server\\Content.Server.csproj",
+      "projectUniqueName": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Server\\Content.Server.csproj",
       "projectName": "Content.Server",
-      "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Server\\Content.Server.csproj",
-      "packagesPath": "C:\\Users\\kamka1337\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Server\\obj\\",
+      "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Server\\Content.Server.csproj",
+      "packagesPath": "C:\\Users\\р6к5олезошгщькее\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Server\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
-        "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\NuGet.Config",
-        "C:\\Users\\kamka1337\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\NuGet.Config",
+        "C:\\Users\\р6к5олезошгщькее\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -7008,35 +7008,35 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Packaging\\Content.Packaging.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Packaging\\Content.Packaging.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Packaging\\Content.Packaging.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Packaging\\Content.Packaging.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Server.Database\\Content.Server.Database.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Server.Database\\Content.Server.Database.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Server.Database\\Content.Server.Database.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Server.Database\\Content.Server.Database.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared.Database\\Content.Shared.Database.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Content.Shared\\Content.Shared.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Content.Shared\\Content.Shared.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Server\\Content.Corvax.Interfaces.Server.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Server\\Content.Corvax.Interfaces.Server.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Server\\Content.Corvax.Interfaces.Server.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Server\\Content.Corvax.Interfaces.Server.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\Corvax\\Content.Corvax.Interfaces.Shared\\Content.Corvax.Interfaces.Shared.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Lidgren.Network\\Lidgren.Network.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Server\\Robust.Server.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Server\\Robust.Server.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Server\\Robust.Server.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Server\\Robust.Server.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared.Maths\\Robust.Shared.Maths.csproj"
             },
-            "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
-              "projectPath": "C:\\Users\\kamka1337\\Desktop\\Arena14\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
+            "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj": {
+              "projectPath": "C:\\Users\\р6к5олезошгщькее\\Desktop\\sss\\Arena14\\RobustToolbox\\Robust.Shared\\Robust.Shared.csproj"
             }
           }
         }
@@ -7143,7 +7143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

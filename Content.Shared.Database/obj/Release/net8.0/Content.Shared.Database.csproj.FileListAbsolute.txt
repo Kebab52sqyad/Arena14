@@ -10,3 +10,15 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Release\n
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Release\net8.0\refint\Content.Shared.Database.dll
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Content.Shared.Database\obj\Release\net8.0\ref\Content.Shared.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\bin\Release\net8.0\Content.Shared.Database.deps.json
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\bin\Release\net8.0\Content.Shared.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\bin\Release\net8.0\Content.Shared.Database.pdb
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.AssemblyInfoInputs.cache
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.AssemblyInfo.cs
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.csproj.CoreCompileInputs.cache
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.sourcelink.json
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\refint\Content.Shared.Database.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\Content.Shared.Database.pdb
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Content.Shared.Database\obj\Release\net8.0\ref\Content.Shared.Database.dll

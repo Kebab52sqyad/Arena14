@@ -20,3 +20,6 @@ C:\Users\kamka1337\Desktop\Arena14\Arena14\Corvax\Content.Corvax.Interfaces.Shar
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\refint\Content.Corvax.Interfaces.Shared.dll
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\Content.Corvax.Interfaces.Shared.pdb
 C:\Users\kamka1337\Desktop\Arena14\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\ref\Content.Corvax.Interfaces.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\Content.Corvax.Interfaces.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\refint\Content.Corvax.Interfaces.Shared.dll
+C:\Users\р6к5олезошгщькее\Desktop\sss\Arena14\Corvax\Content.Corvax.Interfaces.Shared\obj\Debug\net8.0\Content.Corvax.Interfaces.Shared.pdb
