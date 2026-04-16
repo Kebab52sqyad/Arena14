@@ -21,9 +21,7 @@
     angleIncrease: 1.5
     angleDecay: 8
     fireRate: 12
-    shotsPerBurst: 3
-    ShotsPerBurstModified: 3
-    selectedMode: FullAuto
+    selectedMode: Burst
     availableModes:
     - Burst
     - FullAuto
@@ -58,7 +56,7 @@
         priority: 1
         whitelist:
           tags:
-          - STCartridge919PBM
+          - Cartridge45ACP
 
 - type: entity
   parent: STBaseWeaponSMGThompson

@@ -4,24 +4,31 @@
   id: STBaseWeaponRifleAKS74
   components:
   - type: STWeight
-    self: 3.7
+    self: 3.5
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74.rsi
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74.rsi
+  - type: GunWieldBonus
+    minAngle: -48
+    maxAngle: -45
+  - type: PullDoAfter
+    pullTime: 3.5
   - type: Gun
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/ak.ogg
-    minAngle: 52
-    maxAngle: 95
-    angleIncrease: 1.4
+    minAngle: 50
+    maxAngle: 90
+    angleIncrease: 1.65
+    angleDecay: 4
+    projectileSpeed: 55
+    fireRate: 6
     selectedMode: FullAuto
     availableModes:
     - SemiAuto
     - FullAuto
-    fireRate: 5
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -51,6 +58,10 @@
         whitelist:
           tags:
           - STCartridge545
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.45
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -65,38 +76,26 @@
   name: AK-74M "Modern"
   description: Modern modification with polymer furniture and optics rail. Valued in the Zone for versatility and improved ergonomics.
   components:
+  - type: STWeight
+    self: 4
+  - type: GunWieldBonus
+    minAngle: -45
+    maxAngle: -50
+  - type: PullDoAfter
+    pullTime: 4
   - type: Gun
-    angleIncrease: 1.5
-    fireRate: 6.5
-    minAngle: 50
+    minAngle: 45
     maxAngle: 85
+    angleIncrease: 1.5
+    angleDecay: 5.5
+    projectileSpeed: 60
+    fireRate: 6.5
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-
-- type: entity
-  parent: STBaseWeaponRifleAKS74
-  id: STWeaponRifleSaiga545
-  name: saiga 5.45 "Hunter"
-  description: Civilian version of AK-74M with fixed stock. Popular among stalkers for reliability and ammo availability.
-  components:
-  - type: Clothing
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: Item
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: Sprite
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: Gun
-    minAngle: 55
-    maxAngle: 95
-    angleIncrease: 1
-    fireRate: 3
-    selectedMode: SemiAuto
-    availableModes:
-    - SemiAuto
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
@@ -104,8 +103,63 @@
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
+  id: STWeaponRifleSaiga545
+  name: saiga 5.45 "Hunter"
+  description: Civilian version of AK-74M with fixed stock. Popular among stalkers for reliability and ammo availability.
+  components:
+  - type: STWeight
+    self: 3.2
+  - type: GunWieldBonus
+    minAngle: -40
+    maxAngle: -40
+  - type: PullDoAfter
+    pullTime: 3
+  - type: Clothing
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Item
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Sprite
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: Gun
+    minAngle: 45
+    maxAngle: 90
+    angleIncrease: 1.2
+    angleDecay: 3
+    projectileSpeed: 50
+    fireRate: 3
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 1
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.43
+
+- type: entity
+  parent: STWeaponRifleSaiga545
+  id: STWeaponRifleSaiga545Auto
+  name: saiga 5.45 "Hunter"
+  description: Civilian version of AK-74M with fixed stock. Popular among stalkers for reliability and ammo availability.
+  components:
+  - type: STWeight
+    self: 3.5
+  - type: Gun
+    minAngle: 45
+    maxAngle: 105
+    angleIncrease: 1.65
+    angleDecay: 3
+    projectileSpeed: 50
+    fireRate: 3
+    selectedMode: FullAuto
+    availableModes:
+    - SemiAuto
+    - FullAuto
+
+- type: entity
+  parent: STBaseWeaponRifleAKS74
   id: STWeaponRifleA545
   name: A-545 "Balalaika"
+  suffix: ST, Кастомка
   description: Assault rifle with balanced recoil system. Rare in the Zone, usually comes with military expeditions. Nicknamed 'Balalaika' for distinctive sound.
   components:
   - type: Clothing
@@ -115,11 +169,27 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/A-545.rsi
     scale: 0.75, 0.75
+  - type: PullDoAfter
+    pullTime: 2
+  - type: STWeight
+    self: 3.5
+  - type: GunWieldBonus
+    minAngle: -43
+    maxAngle: -55
   - type: Gun
-    minAngle: 52
-    maxAngle: 95
+    minAngle: 45
+    maxAngle: 90
     angleIncrease: 1.2
+    angleDecay: 5
+    projectileSpeed: 60
     fireRate: 8
+    selectedMode: FullAuto
+    availableModes:
+    - SemiAuto
+    - FullAuto
+    - Burst
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
   - type: STWeaponAccuracy
     accuracyMultiplier: 1.46
 
@@ -137,40 +207,44 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/aks74-green.rsi
 
 - type: entity
-  parent: STBaseWeaponRifleAKM
-  id: STWeaponRifleSquall
-  name: Squall
-  description: An experimental high-rate machine gun in a bullpup configuration.
+  parent: STBaseWeaponRifleAKS74
+  id: STWeaponRifleZastavaM92
+  name: Zastava M92
+  suffix: ST, Кастомка
+  description: Yugoslav and Serbian assault rifle. Variant of the Zastava M85 assault rifle chambered for the 7.62 × 39 mm cartridge. It has a recoil capacitor, a PS-2 sight, and a handle.
   components:
   - type: STWeight
-    self: 3.4
+    self: 3
   - type: Clothing
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/squall.rsi
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/zastava_m92.rsi
   - type: Item
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/squall.rsi
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/zastava_m92.rsi
   - type: Sprite
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/squall.rsi
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/zastava_m92.rsi
   - type: Gun
     soundGunshot:
-      path: /Audio/_Stalker/Effects/Guns/ak.ogg
+      path: /Audio/_Stalker/Effects/Guns/103_shoot.ogg
+    minAngle: 45
+    maxAngle: 85
     fireRate: 8
+    angleIncrease: 1
   - type: ItemSlots
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: Base545Mag10
+        startingItem: Base739Mag10
         insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
         ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
         priority: 4
         whitelist:
           tags:
-          - Magazine545
+          - Magazine739
       gun_chamber:
         name: Chamber
         priority: 1
         whitelist:
           tags:
-          - STCartridge545
+          - STCartridge739
       gun_module_muzzle:
         name: Muzzle
         priority: 3
@@ -183,10 +257,6 @@
         whitelist:
           tags:
           - STWeaponModuleRifleScopeRu
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
 
 # AKS 74u
 - type: entity
@@ -195,20 +265,31 @@
   id: STBaseWeaponRifleAKS74U
   components:
   - type: STWeight
-    self: 3.2
+    self: 3
+  - type: PullDoAfter
+    pullTime: 2
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74u.rsi
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74u.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/aks74u.rsi
+  - type: GunWieldBonus
+    minAngle: -45
+    maxAngle: -45
   - type: Gun
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/n_ak74u_shot.ogg
-    minAngle: 55
-    maxAngle: 110
+    minAngle: 50
+    maxAngle: 105
     fireRate: 5
-    angleIncrease: 1.75
+    angleIncrease: 1.4
+    angleDecay: 4.5
+    projectileSpeed: 55
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.42
 
 - type: entity
   parent: STBaseWeaponRifleAKS74U
@@ -253,26 +334,95 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/aks74u-seraph.rsi
 
 - type: entity
-  parent: STBaseWeaponRifleAKS74
-  id: STWeaponRifleSaiga739
-  name: saiga 7.39
-  description: Civilian version of AK-74M with fixed stock. Popular among stalkers for reliability and ammo availability.
+  parent: STWeaponRifleStalkerAK12
+  id: STWeaponRifleAM17
+  name: AM-17
+  suffix: ST, Кастомка
+  description: Russian compact assault rifle developed by the Kalashnikov Concern. This rifle was created to replace the AKS-74U assault rifles in special forces of the Russian Armed Forces and the Ministry of Internal Affairs.
   components:
-  - type: Clothing
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: Item
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: Sprite
-    sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
+  - type: STWeight
+    self: 2.5
+  - type: PullDoAfter
+    pullTime: 3.5
+  - type: GunWieldBonus
+    minAngle: -45
+    maxAngle: -50
   - type: Gun
-    minAngle: 70
+    minAngle: 45
+    maxAngle: 80
+    fireRate: 7
+    angleIncrease: 1.6
+    angleDecay: 6.5
+    projectileSpeed: 60
+  - type: Clothing
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/am17.rsi
+  - type: Item
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/am17.rsi
+  - type: Sprite
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/am17.rsi
+    scale: 1, 1
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.6
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.47
+
+- type: entity
+  name: АК-105 Болотная тварь
+  suffix: ST
+  parent: STBaseWeaponRifle
+  id: STWeaponRifleStalkerAK105SwampThing
+  description: АК-105 — автомат Калашникова «сотой серии» малогабаритный. Разработан под патрон 5,45х39 мм для российской армии и правоохранительных органов. Этот автомат модифицирован под нужды Чистого Неба и используется оперативниками группировки в самых разных уголках Зоны.
+  components:
+  - type: STWeight
+    self: 3.5
+  - type: PullDoAfter
+    pullTime: 3
+  - type: GunWieldBonus
+    minAngle: -40
+    maxAngle: -45
+  - type: Clothing
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/ak105.rsi
+  - type: Sprite
+    sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/ak105.rsi
+  - type: Gun
+    soundGunshot:
+      path: /Audio/_Stalker/Effects/Guns/103_shoot.ogg
+    minAngle: 45
     maxAngle: 95
-    angleIncrease: 1.4
-    fireRate: 3
-    selectedMode: SemiAuto
-    availableModes:
-    - SemiAuto
+    fireRate: 5.5
+    angleIncrease: 1
+    angleDecay: 3.5
+    projectileSpeed: 55
+  - type: ItemSlots
+    slots:
+      gun_magazine:
+        name: Magazine
+        startingItem: Base545Mag10
+        insertSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagIn/rifle_magin.ogg
+        ejectSound: /Audio/_Stalker/Weapons/Guns/RifleGen/MagOut/rifle_magout.ogg
+        priority: 4
+        whitelist:
+          tags:
+            - Magazine545
+      gun_module_muzzle:
+        name: Muzzle
+        priority: 3
+        whitelist:
+          tags:
+            - STWeaponModuleRifleSilencerRu
+      gun_module_scope:
+        name: Scope
+        priority: 2
+        whitelist:
+          tags:
+            - STWeaponModuleRifleScopeRu
+      gun_chamber:
+        name: Chamber
+        priority: 1
+        whitelist:
+          tags:
+            - STCartridge545
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+    accuracyMultiplier: 1.44

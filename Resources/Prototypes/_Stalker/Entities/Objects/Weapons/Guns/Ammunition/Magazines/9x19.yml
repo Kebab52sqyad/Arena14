@@ -3,15 +3,16 @@
   name: магазин МП-5 9x19 (35)
   description: Магазин 9x19 мм для МП-5 Гадюка. Вместимость пуль 35. Продают пустым.
   parent: BaseItem
-  tag: Stalker
+  suffix: Stalker
   components:
+  - type: STBulkBuyable # stalker-14-en
+    maxQuantity: 10
   - type: STWeight
     self: 0.2
   - type: Tag
     tags:
       - MagazineMP5
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -24,6 +25,9 @@
   - type: ContainerContainer
     containers:
       ballistic-ammo: !type:Container
+      storagebase: !type:Container
+        ents: [ ]
+      item_slot: !type:ContainerSlot { }
   - type: Sprite
     scale: 0.8, 0.8
     sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/35mp5.rsi
@@ -39,18 +43,42 @@
   - type: Appearance
   - type: RepositoryItem
     categoryName: Магазины
+  - type: ItemSlots
+    slots:
+      item_slot:
+        name: mop-bucket-slot-component-slot-name-item123
+        ejectVerbText: mop-bucket-slot-component-eject-verb123
+        whitelist:
+          tags:
+            - STElasticRubberRed
+            - STElasticRubberGreen
+            - STElasticRubberBlue
+  - type: ItemMapper
+    mapLayers:
+      red_35mp5:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_35mp5:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_35mp5:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: MP5Mag50
   name: магазин магазин МП-5 (50)
   description: Магазин на MP-5 9x19. Вместимость пуль 50. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.5
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -63,13 +91,28 @@
       map: ["enum.GunVisualLayers.Base"]
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
+  - type: ItemMapper
+    mapLayers:
+      red_glock_33:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_glock_33:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_glock_33:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: BaseGlockMag10
   name: магазин Glock 9x19 (10)
   description: Магазин на Glock 9x19. Вместимость пуль 10. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.1
@@ -77,7 +120,6 @@
       tags:
         - MagazineGlock
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -87,9 +129,6 @@
       size: Small
       shape:
         - 0,0,0,0
-    - type: ContainerContainer
-      containers:
-        ballistic-ammo: !type:Container
     - type: Sprite
       scale: 0.8, 0.8
       sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/glock/10.rsi
@@ -103,18 +142,32 @@
       steps: 2
       zeroVisible: false
     - type: Appearance
+    - type: ItemMapper
+      mapLayers:
+        red_glock_10:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_glock_10:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_glock_10:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: GlockMag17
   name: магазин Glock 9x19 (17)
   description: Магазин на Glock 9x19. Вместимость пуль 17. Продают пустым.
   parent: BaseGlockMag10
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.2
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -132,18 +185,32 @@
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-1
           map: ["enum.GunVisualLayers.Mag"]
+    - type: ItemMapper
+      mapLayers:
+        red_glock_17:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_glock_17:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_glock_17:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: GlockMag24
   name: магазин Glock 9x19 (24)
   description: Магазин на Glock 9x19. Вместимость пуль 24. Продают пустым.
   parent: BaseGlockMag10
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.2
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -161,17 +228,32 @@
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-1
           map: ["enum.GunVisualLayers.Mag"]
+    - type: ItemMapper
+      mapLayers:
+        red_glock_24:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_glock_24:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_glock_24:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
+
 - type: entity
   id: GlockMag33
   name: магазин Glock 9x19 (33)
   description: Магазин на Glock 9x19. Вместимость пуль 33. Продают пустым.
   parent: BaseGlockMag10
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.3
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -185,13 +267,28 @@
           map: ["enum.GunVisualLayers.Base"]
         - state: mag-1
           map: ["enum.GunVisualLayers.Mag"]
+    - type: ItemMapper
+      mapLayers:
+        red_glock_33:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_glock_33:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_glock_33:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: BaseGSH-18Mag10
   name: магазин ГШ-18 9x19 (10)
   description: Магазин на ГШ-18 9x19. Вместимость пуль 10. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.1
@@ -199,7 +296,6 @@
       tags:
         - MagazineGSH-18
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -225,18 +321,32 @@
       steps: 5
       zeroVisible: false
     - type: Appearance
+    - type: ItemMapper
+      mapLayers:
+        red_gsh_10:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_gsh_10:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_gsh_10:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: GSH-18Mag18
   name: магазин ГШ-18 9x19 (18)
   description: Магазин на ГШ-18 9x19. Вместимость пуль 18. Продают пустым.
   parent: BaseGSH-18Mag10
-  tag: Stalker
+  suffix: Stalker
   components:
     - type: STWeight
       self: 0.1
     - type: BallisticAmmoProvider
-      proto:
       mayTransfer: true
       whitelist:
         tags:
@@ -259,13 +369,28 @@
       steps: 5
       zeroVisible: false
     - type: Appearance
+    - type: ItemMapper
+      mapLayers:
+        red_gsh_18:
+          whitelist:
+            tags:
+              - STElasticRubberRed
+        green_gsh_18:
+          whitelist:
+            tags:
+              - STElasticRubberGreen
+        blue_gsh_18:
+          whitelist:
+            tags:
+              - STElasticRubberBlue
+      sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: VityazMag
   name: магазин ПП-19-01 9x19 (30)
   description: Магазин 9x19 мм для Витязь. Вместимость пуль 30. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.2
@@ -273,7 +398,6 @@
     tags:
       - MagazineVityaz
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -299,13 +423,28 @@
     steps: 2
     zeroVisible: false
   - type: Appearance
+  - type: ItemMapper
+    mapLayers:
+      red_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: BizonMag919
   name: шнековый магазин 9x19 "Бизон" (64)
   description: Шнековый магазин на Бизон под 9х19. Вместимость пуль 64. Изменён с помощью инструментов.
   parent: VityazMag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.35
@@ -313,7 +452,6 @@
     tags:
       - MagazineBizon919
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -340,13 +478,28 @@
     zeroVisible: false
   - type: Appearance
   - type: Craftable
+  - type: ItemMapper
+    mapLayers:
+      red_bizon:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_bizon:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_bizon:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: BaseTEC9Mag
   name: магазин TEC-9 9x19 (20)
   description: Магазин 9x19 для TEC-9. Вместимость пуль 20. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.2
@@ -366,21 +519,35 @@
   - type: Tag
     tags:
       - MagazineTEC
+  - type: ItemMapper
+    mapLayers:
+      red_tec9:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_tec9:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_tec9:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: MP40Mag
   name: магазин MP-40 9x19 (30)
   description: Магазин 9x19 мм для MP-40. Вместимость пуль 30. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
-    SelfWeight: 0.2
+    self: 0.2
   - type: Tag
     tags:
       - MagazineMP40
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -390,9 +557,6 @@
     size: Small
     shape:
       - 0,0,0,1
-  - type: ContainerContainer
-    containers:
-      ballistic-ammo: !type:Container
   - type: Sprite
     scale: 0.8, 0.8
     sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/vityaz.rsi
@@ -406,21 +570,35 @@
     steps: 2
     zeroVisible: false
   - type: Appearance
+  - type: ItemMapper
+    mapLayers:
+      red_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: PP91Mag
   name: магазин ПП-91 9x19 (30)
   description: Магазин 9x19 мм для ПП-91 "Кедр". Вместимость пуль 30. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
-    SelfWeight: 0.1
+    self: 0.1
   - type: Tag
     tags:
       - MagazinePP91
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -446,13 +624,28 @@
     steps: 2
     zeroVisible: false
   - type: Appearance
+  - type: ItemMapper
+    mapLayers:
+      red_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_vityaz:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: P90Mag
   name: магазин P90 9x19 (50)
   description: Магазин 9x19 мм для P90. Вместимость пуль 50. Продают пустым.
   parent: BaseMP5Mag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.2
@@ -460,7 +653,6 @@
     tags:
       - P90Magazin
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -470,9 +662,6 @@
     size: Small
     shape:
       - 0,0,0,1
-  - type: ContainerContainer
-    containers:
-      ballistic-ammo: !type:Container
   - type: Sprite
     scale: 0.8, 0.8
     sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/p90.rsi
@@ -486,20 +675,35 @@
     steps: 2
     zeroVisible: false
   - type: Appearance
+  - type: ItemMapper
+    mapLayers:
+      red_p90:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_p90:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_p90:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi
 
 - type: entity
   id: LP08Drum
   name: барабан Люгера (32)
   description: Барабан для Люгера. Вместимость пуль 32. Продают пустым.
   parent: BasePPSHMag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 0.85
   - type: Item
     size: Normal
     shape:
-      - 0,0,1,1
+      - 0,0,0,1
   - type: Sprite
     scale: 0.7, 0.7
     sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/luger_drum.rsi
@@ -509,7 +713,6 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -518,3 +721,18 @@
   - type: Tag
     tags:
       - LugerMagazin
+  - type: ItemMapper
+    mapLayers:
+      red_luger_drum:
+        whitelist:
+          tags:
+            - STElasticRubberRed
+      green_luger_drum:
+        whitelist:
+          tags:
+            - STElasticRubberGreen
+      blue_luger_drum:
+        whitelist:
+          tags:
+            - STElasticRubberBlue
+    sprite: _Stalker/Objects/Weapons/Guns/Ammunition/Magazines/919/elastic_rubber.rsi

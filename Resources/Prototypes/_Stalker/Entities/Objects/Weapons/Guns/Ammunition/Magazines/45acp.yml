@@ -8,6 +8,8 @@
   parent: BaseItem
   abstract: true
   components:
+    - type: STBulkBuyable # stalker-14-en
+      maxQuantity: 10
     - type: Tag
       tags:
         - STSpeedLoader45ACP
@@ -59,8 +61,10 @@
   name: магазин ПП Томпсона (40)
   description: Магазин для "Томми гана". Вместимость пуль 40. Продают пустым.
   parent: BaseItem
-  tag: Stalker
+  suffix: Stalker
   components:
+  - type: STBulkBuyable # stalker-14-en
+    maxQuantity: 10
   - type: STWeight
     self: 0.6
   - type: Sprite
@@ -75,11 +79,10 @@
     tags:
       - MagazineTommyGun
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
-        - STCartridge919PBM
+        - Cartridge45ACP
     capacity: 40
   - type: Item
     size: Small
@@ -99,7 +102,7 @@
   name: барабан ПП Томпсона (60)
   description: Барабан для "Томми гана". Вместимость пуль 60. Продают пустым.
   parent: BaseTommyGunMag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 2
@@ -116,7 +119,6 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -128,7 +130,7 @@
   name: барабан ПП Томпсона оригинальной конструкции (60)
   description: Барабан для "Томми гана". Вместимость пуль 60. Продают пустым.
   parent: BaseTommyGunMag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 2
@@ -145,7 +147,6 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
@@ -157,7 +158,7 @@
   name: барабан ПП Томпсона (100)
   description: Огромный и редкий Барабан для "Томми гана". Вместимость пуль 100. Продают пустым.
   parent: BaseTommyGunMag
-  tag: Stalker
+  suffix: Stalker
   components:
   - type: STWeight
     self: 5
@@ -174,9 +175,8 @@
     - state: mag-1
       map: ["enum.GunVisualLayers.Mag"]
   - type: BallisticAmmoProvider
-    proto:
     mayTransfer: true
     whitelist:
       tags:
-        - STCartridge919PBM
+        - Cartridge45ACP
     capacity: 100
