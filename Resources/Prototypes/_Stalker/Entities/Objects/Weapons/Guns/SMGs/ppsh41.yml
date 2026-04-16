@@ -15,10 +15,10 @@
     sprite: _Stalker/Objects/Weapons/Guns/SMGs/ppsh41.rsi
   - type: Gun
     minAngle: 55
-    maxAngle: 75
-    angleIncrease: 1.5
-    angleDecay: 5.5
-    fireRate: 10
+    maxAngle: 100
+    angleIncrease: 0.5
+    angleDecay: 5
+    fireRate: 14
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/PPSh.ogg
   - type: ItemSlots

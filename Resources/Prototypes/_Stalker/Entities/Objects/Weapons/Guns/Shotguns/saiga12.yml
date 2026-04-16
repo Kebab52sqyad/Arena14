@@ -5,6 +5,11 @@
   components:
   - type: STWeight
     self: 3.6
+  - type: PullDoAfter
+    pullTime: 2.3
+  - type: GunWieldBonus
+    minAngle: -50
+    maxAngle: -50
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/saiga/saiga.rsi
   - type: Item
@@ -23,9 +28,10 @@
       path: /Audio/_Stalker/Effects/Guns/saiga_shoot.ogg
     minAngle: 60
     maxAngle: 80
+    fireRate: 3.5
     angleIncrease: 10
     angleDecay: 50
-    fireRate: 3
+    projectileSpeed: 55
     selectedMode: SemiAuto
     availableModes:
     - SemiAuto
@@ -64,9 +70,26 @@
           - STWeaponModuleShotgunChoke
   - type: ContainerContainer
     containers:
-      gun_magazine: !type:ContainerSlot
-      gun_chamber: !type:ContainerSlot
-      gun_module_muzzle: !type:ContainerSlot
+      gun_magazine: !type:ContainerSlot {}
+      gun_chamber: !type:ContainerSlot {}
+      gun_auto_sear: !type:ContainerSlot {}
+      gun_module_muzzle: !type:ContainerSlot {}
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.25
+
+- type: entity
+  parent: STBaseWeaponShotgunSaiga12
+  id: STWeaponShotgunSaiga12Auto
+  name: Saiga-12
+  description: Semi-automatic AK-based shotgun, favored by stalkers for its reliability and firepower. Chambered in 12 gauge, perfect for close-quarters mutant encounters.
+  components:
+  - type: Gun
+    selectedMode: FullAuto
+    availableModes:
+    - FullAuto
+    - SemiAuto
 
 - type: entity
   parent: STBaseWeaponShotgunSaiga12

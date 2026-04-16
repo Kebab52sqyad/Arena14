@@ -105,7 +105,7 @@
   - type: STProjectileAccuracy
     thresholds:
     - range: 1
-      falloff: 0.1
+      falloff: 0.05
   - type: STProjectileDamageFalloff
     thresholds:
     - range: 2
@@ -162,6 +162,23 @@
     - range: 4
       falloff: 0.02
     - range: 30
+      falloff: 0.2
+
+- type: entity
+  abstract: true
+  parent: STBaseBullet
+  id: STBaseSHRBullet #Super High range, super heavy rifle
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: STProjectileAccuracy
+    thresholds:
+    - range: 1
+      falloff: 0.001
+  - type: STProjectileDamageFalloff
+    thresholds:
+    - range: 8
+      falloff: 0.01
+    - range: 45
       falloff: 0.2
 
 - type: entity

@@ -1,5 +1,3 @@
-
-
 - type: entity
   abstract: true
   parent: STBaseWeaponShotgun
@@ -7,6 +5,11 @@
   components:
   - type: STWeight
     self: 3.2
+  - type: PullDoAfter
+    pullTime: 2
+  - type: GunWieldBonus
+    minAngle: -50
+    maxAngle: -50
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/toz-34.rsi
   - type: Clothing
@@ -20,15 +23,63 @@
   - type: Gun
     minAngle: 60
     maxAngle: 70
+    fireRate: 7
     angleIncrease: 10
     angleDecay: 50
-    fireRate: 7
+    projectileSpeed: 50
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.8
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.15
 
 - type: entity
   parent: STBaseWeaponShotgunTOZ34
   id: STWeaponShotgunTOZ34
   name: TOZ-34
   description: Soviet double-barreled shotgun with vertical barrel arrangement. Prized in the Zone for its reliability and powerful stopping effect against mutants.
+
+- type: entity
+  parent: STBaseWeaponShotgunTOZ34
+  id: STWeaponShotgunTOZ54
+  name: TOZ-54
+  description: Soviet double-barreled shotgun with vertical barrel arrangement. Prized in the Zone for its reliability and powerful stopping effect against mutants.
+  components:
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 5
+  - type: BallisticAmmoProvider
+    capacity: 2
+    whitelist:
+      tags:
+      - STCartridge754
+  - type: Gun
+    minAngle: 5
+    maxAngle: 70
+    angleIncrease: 30
+    angleDecay: 50
+    fireRate: 7
+  - type: ContainerContainer
+    containers:
+      ballistic-ammo: !type:Container
+        ents: []
+      gun_module_scope: !type:ContainerSlot
+      gun_module_muzzle: !type:ContainerSlot
+  - type: PullDoAfter
+    pullTime: 3.5
+  - type: STWeaponModuleContainer
+  - type: ItemSlots
+    slots:
+      gun_module_scope:
+        name: Scope
+        priority: 2
+        whitelist:
+          tags:
+          - STWeaponModuleSniperSight
+      gun_module_muzzle:
+        name: Muzzle
+        priority: 1
+        whitelist:
+          tags:
+          - STWeaponModuleSniperSilencer
 
 - type: entity
   parent: STBaseWeaponShotgunTOZ34
@@ -40,7 +91,6 @@
     self: 2.8
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/anomaly_toz_34.rsi
-    scale: 0.8
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/anomaly_toz_34.rsi
   - type: Clothing
@@ -54,15 +104,15 @@
   id: STWeaponShotgunShizoToz34
   name: Wierd TOZ
   description: Wierd TOZ, modified by someone really mad.
-  suffix: ST, Weapon, Shotgun, Sponsor
+  suffix: ST, Кастомка
   components:
   - type: STWeight
     self: 5
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/toz_shiza.rsi
-    scale: 0.8
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/toz_shiza.rsi
+    scale: 0.8, 0.8
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/toz/toz_shiza.rsi
   - type: BallisticAmmoProvider

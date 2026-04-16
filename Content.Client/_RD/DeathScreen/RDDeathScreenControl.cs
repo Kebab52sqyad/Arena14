@@ -42,7 +42,7 @@ public sealed class RDDeathScreenControl : RDControl
 
         _label = new Label
         {
-            Text = "потерян в зоне",
+            Text = "spawn raped",
             FontOverride = _resourceCache.GetFont("/Fonts/_RD/KosmoletFuturism.otf", 86),
             HorizontalAlignment = HAlignment.Center,
             VerticalAlignment = VAlignment.Center,

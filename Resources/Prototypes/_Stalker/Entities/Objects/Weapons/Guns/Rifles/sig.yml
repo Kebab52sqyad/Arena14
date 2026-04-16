@@ -4,7 +4,12 @@
   id: STBaseWeaponRifleSIG
   components:
   - type: STWeight
-    self: 3.5
+    self: 4
+  - type: PullDoAfter
+    pullTime: 3
+  - type: GunWieldBonus
+    minAngle: -45
+    maxAngle: -50
   - type: Item
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/sig-550.rsi
   - type: Sprite
@@ -12,17 +17,17 @@
   - type: Clothing
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/sig-550.rsi
   - type: Gun
-    fireRate: 5
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/n_sig550_shot.ogg
       params:
         volume: -2
-    minAngle: 45
+    minAngle: 40
     maxAngle: 60
+    fireRate: 5
     angleIncrease: 1.75
-    shotsPerBurst: 3
-    ShotsPerBurstModified: 3
-    selectedMode: Burst
+    angleDecay: 5.5
+    projectileSpeed: 55
+    selectedMode: FullAuto
     availableModes:
     - Burst
     - SemiAuto
@@ -57,6 +62,10 @@
         whitelist:
           tags:
           - STCartridge556
+  - type: STWeaponDamageFalloff
+    falloffMultiplier: 0.6
+  - type: STWeaponAccuracy
+    accuracyMultiplier: 1.46
 
 - type: entity
   parent: STBaseWeaponRifleSIG
@@ -85,6 +94,7 @@
   parent: STBaseWeaponRifleSIG
   id: STWeaponRifleSIG739
   name: SIG-739 "Precision"
+  suffix: ST, Кастомка
   description: Custom sniper variant chambered in Soviet 7.62x39mm. Integrated scope and modified barrel make it perfect for long-range engagements in the Zone. Rare and expensive.
   components:
   - type: STWeight
