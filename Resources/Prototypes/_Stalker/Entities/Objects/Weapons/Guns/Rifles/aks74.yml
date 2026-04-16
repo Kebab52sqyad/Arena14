@@ -14,14 +14,14 @@
   - type: Gun
     soundGunshot:
       path: /Audio/_Stalker/Effects/Guns/ak.ogg
-    minAngle: 52
+    minAngle: 50
     maxAngle: 95
     angleIncrease: 1.4
     selectedMode: FullAuto
     availableModes:
     - SemiAuto
     - FullAuto
-    fireRate: 5
+    fireRate: 6
   - type: ItemSlots
     slots:
       gun_magazine:
@@ -100,7 +100,7 @@
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+    accuracyMultiplier: 5
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -121,7 +121,7 @@
     angleIncrease: 1.2
     fireRate: 8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.46
+    accuracyMultiplier: 5
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -186,7 +186,7 @@
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+    accuracyMultiplier: 5
 
 # AKS 74u
 - type: entity
@@ -275,4 +275,4 @@
   - type: STWeaponDamageFalloff
     falloffMultiplier: 0.8
   - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+    accuracyMultiplier: 5
