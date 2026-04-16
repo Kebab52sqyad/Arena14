@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Content.PatreonParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e69d87a0d9c57195da36974d32061eafe632c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+925acefc45c4316441987b1133bd4bcf5e70b760")]
 [assembly: System.Reflection.AssemblyProductAttribute("Content.PatreonParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Content.PatreonParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

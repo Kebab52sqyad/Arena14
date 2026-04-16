@@ -6,8 +6,6 @@
   parent: BaseItem
   abstract: true
   components:
-  - type: STBulkBuyable # stalker-14-en
-    maxQuantity: 10
   - type: Tag
     tags:
     - SpeedLoaderRemingtonMagnum

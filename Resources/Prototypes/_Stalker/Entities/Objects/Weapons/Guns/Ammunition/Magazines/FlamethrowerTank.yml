@@ -20,6 +20,3 @@
   - type: Tag
     tags:
       - FlamethrowerTank
-  - type: BatteryAmmoProvider
-    proto: Flame
-    fireCost: 1

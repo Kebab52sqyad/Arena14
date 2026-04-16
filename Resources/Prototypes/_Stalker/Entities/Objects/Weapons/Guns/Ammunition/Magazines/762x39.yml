@@ -218,8 +218,6 @@
   suffix: Stalker
   abstract: true
   components:
-    - type: STBulkBuyable # stalker-14-en
-      maxQuantity: 10
     - type: Tag
       tags:
         - Magazine762x39RPD

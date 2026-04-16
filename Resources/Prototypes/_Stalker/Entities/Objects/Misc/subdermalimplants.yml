@@ -8,13 +8,6 @@
     - type: SubdermalImplant
       permanent: true
       implantAction: STActivateSeraSuicideEvent
-    - type: OnUseTimerTrigger
-      delay: 3
-      initialBeepDelay: 0
-      beepSound:
-        path: /Audio/Machines/Nuke/general_beep.ogg
-        params:
-          volume: -2
     - type: ExplodeOnTrigger
     - type: TriggerImplantAction
     - type: Explosive
