@@ -165,13 +165,13 @@
   components:
   - type: StorageFill
     contents:
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
-      - id: ArenaBasePPSHMag
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
+      - id: ArenaBasePPSHDrum
 
 - type: entity
   parent: ClothingBeltWebbingOfficerStalker
@@ -230,6 +230,20 @@
       - id: Arena939Mag20
       - id: Arena939Mag20
       - id: Arena939Mag20
+
+- type: entity
+  parent: ClothingBeltWebbingOfficerStalker
+  id: ClothingBeltWebbingArenaBizonMag
+  name: комплект (9x18) т3
+  description: Набор подсумков и поясная сумка офицерского комплекта персональной системы защиты в раскраске вудланд, имеющий пистолетную кобуру.
+  suffix: Arena
+  components:
+  - type: StorageFill
+    contents:
+      - id: ArenaBizonMag
+      - id: ArenaBizonMag
+      - id: ArenaBizonMag
+      - id: ArenaBizonMag
 
 # loaded mags
 - type: entity
@@ -321,14 +335,14 @@
     proto: CartridgeShotgunFlechette
 
 - type: entity
-  id: ArenaBasePPSHMag
-  name: магазин ППШ (35)
-  description: Магазин для ППШ-41. Вместимость пуль 35. Продают пустым.
-  parent: BasePPSHMag
+  id: ArenaBasePPSHDrum
+  name: магазин ППШ (71)
+  description: Магазин для ППШ-41. Вместимость пуль 71. Продают пустым.
+  parent: PPSHDrum
   tag: Arena
   components:
   - type: BallisticAmmoProvider
-    capacity: 35
+    capacity: 71
     proto: STCartridge725PSTGJ
 
 - type: entity
@@ -363,6 +377,17 @@
   - type: BallisticAmmoProvider
     capacity: 20
     proto: STCartridge9x39PAB9
+
+- type: entity
+  id: ArenaBizonMag
+  name: Шнек на бизон (64)
+  description: Магазин 9x18 мм для бизона. Вместимость пуль 64. Продают пустым.
+  parent: BizonMag
+  tag: Stalker
+  components:
+  - type: BallisticAmmoProvider
+    capacity: 64
+    proto: STCartridge918PBM
 
 # ammo
 - type: entity
