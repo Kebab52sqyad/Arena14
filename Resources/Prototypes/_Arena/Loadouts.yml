@@ -222,6 +222,46 @@
   equipment:
     suitstorage: STWeaponRifleStalkerAek971
 
+- type: loadout
+  id: STWeaponRifleARX160L
+  equipment:
+    suitstorage: STWeaponRifleARX160
+
+- type: loadout
+  id: STWeaponRifleStalkerAK15L
+  equipment:
+    suitstorage: STWeaponRifleStalkerAK15
+
+- type: loadout
+  id: STWeaponRifleStalkerAK12L
+  equipment:
+    suitstorage: STWeaponRifleStalkerAK12
+
+- type: loadout
+  id: STWeaponRifleStalkerRPK16L
+  equipment:
+    suitstorage: STWeaponRifleStalkerRPK16
+
+- type: loadout
+  id: STWeaponRifleStalkerAbakanL
+  equipment:
+    suitstorage: STWeaponRifleStalkerAbakan
+
+- type: loadout
+  id: STWeaponSniperSKSpersecutorL
+  equipment:
+    suitstorage: STWeaponSniperSKSpersecutor
+
+- type: loadout
+  id: STWeaponSniperHK417L
+  equipment:
+    suitstorage: STWeaponSniperHK417
+
+- type: loadout
+  id: STWeaponRifleOC14LiturgiaL
+  equipment:
+    suitstorage: STWeaponRifleOC14LiturgiaL
+
 ######################################################################################################
 # hat
 - type: loadout

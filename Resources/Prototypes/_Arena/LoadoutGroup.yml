@@ -21,6 +21,7 @@
   - STWeaponRifleG36L
   - STWeaponSniperVeprL
   - STWeaponRifleSCARLL
+  - STWeaponSniperSKSpersecutorL
 
 - type: loadoutGroup
   id: ArenaSniperGunsLoadoutGroup
@@ -56,6 +57,16 @@
   - STWeaponRifleLR300v1L
   - STWeaponRifleAM17L
   - STWeaponRifleStalkerAek971L
+  - STWeaponRifleM16L
+  - STWeaponRifleSCARLL
+  - STWeaponRifleStalkerAK15L
+  - STWeaponRifleARX160L
+  - STWeaponRifleStalkerAK12L
+  - STWeaponRifleStalkerRPK16L
+  - STWeaponRifleStalkerAbakanL
+  - STWeaponSniperSKSpersecutorL
+  - STWeaponSniperHK417L
+  - STWeaponRifleOC14LiturgiaL
 
 - type: loadoutGroup
   id: ArenaSniperCloakLoadoutGroup
