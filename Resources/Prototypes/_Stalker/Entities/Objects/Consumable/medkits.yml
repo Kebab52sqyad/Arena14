@@ -375,7 +375,7 @@
         Piercing: -30
         Blunt: -10
         Slash: -20
-        bloodlossModifier: -10
+        bloodlossModifier: -100
     delay: 2
   - type: Stack
     stackType: MedkitMilitary
