@@ -191,6 +191,37 @@
   id: STWeaponRifleAK74ML
   equipment:
     suitstorage: STWeaponRifleAK74M
+
+- type: loadout
+  id: STWeaponSMGPP19L
+  equipment:
+    suitstorage: STWeaponSMGPP19
+
+- type: loadout
+  id: STWeaponRifleOC14939L
+  equipment:
+    suitstorage: STWeaponRifleOC14939
+
+- type: loadout
+  id: STWeaponRifleLR300v1L
+  equipment:
+    suitstorage: STWeaponRifleLR300v1
+
+- type: loadout
+  id: STWeaponRifleSCARLL
+  equipment:
+    suitstorage: STWeaponRifleSCARL
+
+- type: loadout
+  id: STWeaponRifleAM17L
+  equipment:
+    suitstorage: STWeaponRifleAM17
+
+- type: loadout
+  id: STWeaponRifleStalkerAek971L
+  equipment:
+    suitstorage: STWeaponRifleStalkerAek971
+
 ######################################################################################################
 # hat
 - type: loadout
@@ -701,3 +732,8 @@
   id: ClothingBeltWebbingArena939MagL
   equipment:
     belt: ClothingBeltWebbingArena939Mag
+
+- type: loadout
+  id: ClothingBeltWebbingArenaBizonMagL
+  equipment:
+    belt: ClothingBeltWebbingArenaBizonMag
