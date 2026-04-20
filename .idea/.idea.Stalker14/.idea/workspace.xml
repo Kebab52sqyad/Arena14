@@ -26,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content.Client/_RD/DeathScreen/RDDeathScreenControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/_RD/DeathScreen/RDDeathScreenControl.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.csproj.AssemblyReference.cache" afterDir="false" />
@@ -71,6 +70,7 @@
       <change beforePath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/SoundCollections/lobby.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/SoundCollections/lobby.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/р6к5олезошгщькее/Desktop/sss/Arena14/Content.Client/_RD/DeathScreen/RDDeathScreenControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/bin/Content.Server/Robust.Packaging.deps.json" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -402,6 +403,8 @@
       <workItem from="1776268420900" duration="138000" />
       <workItem from="1776272467410" duration="4670000" />
       <workItem from="1776281033602" duration="1200000" />
+      <workItem from="1776369225334" duration="3075000" />
+      <workItem from="1776696257464" duration="670000" />
     </task>
     <servers />
   </component>
@@ -409,6 +412,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
