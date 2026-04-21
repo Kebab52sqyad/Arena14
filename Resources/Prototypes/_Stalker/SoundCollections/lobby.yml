@@ -1,7 +1,7 @@
 - type: soundCollection
   id: STLobbyMusic
   files:
-    - /Audio/_Stalker/Lobby/tarkov1.ogg
-    - /Audio/_Stalker/Lobby/tarkov2.ogg
-    - /Audio/_Stalker/Lobby/tarkov3.ogg
-    - /Audio/_Stalker/Lobby/tarkov4.ogg
+    - /Audio/_Stalker/Lobby/bocchi.ogg
+    - /Audio/_Stalker/Lobby/bocchi2.ogg
+    - /Audio/_Stalker/Lobby/bocchi3.ogg
+    - /Audio/_Stalker/Lobby/bocchi4.ogg
