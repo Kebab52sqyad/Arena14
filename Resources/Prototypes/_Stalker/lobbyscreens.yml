@@ -1,11 +1,3 @@
 - type: lobbyBackground
-  id: fon3
-  background: /Textures/_Stalker/LobbyScreens/fon3.png
-
-- type: lobbyBackground
-  id: fon4
-  background: /Textures/_Stalker/LobbyScreens/fon4.png
-
-- type: lobbyBackground
-  id: fon5
-  background: /Textures/_Stalker/LobbyScreens/fon5.png
+  id: fon1
+  background: /Textures/_Stalker/LobbyScreens/fon1.png
