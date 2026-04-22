@@ -577,6 +577,11 @@
     outerClothing: STClothingOuterArmorLightPlateVestBaseHeavyBandit
 
 - type: loadout
+  id: ClothingOuterArmor6B13L
+  equipment:
+    outerClothing: ClothingOuterArmor6B13
+
+- type: loadout
   id: ClothingOuterArmorHeavyUNTARL
   equipment:
     outerClothing: ClothingOuterArmorHeavyUNTAR
