@@ -27,7 +27,7 @@
     angleIncrease: 1.25
     angleDecay: 6
     projectileSpeed: 55
-    selectedMode: Burst
+    selectedMode: SemiAuto
     availableModes:
     - Burst
     - SemiAuto
