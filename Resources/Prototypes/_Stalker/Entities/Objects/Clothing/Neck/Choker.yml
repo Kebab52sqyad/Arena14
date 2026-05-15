@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingStalkerNeckChoker
+  name: Чокер
+  description: ПРО100 ЧОКЕР НАХУЙ
+  suffix: Stalker, Повязка
+  components:
+  - type: Sprite
+    sprite: _Stalker/Objects/Clothing/Neck/choker.rsi
+  - type: Clothing
+    sprite: _Stalker/Objects/Clothing/Neck/choker.rsi
