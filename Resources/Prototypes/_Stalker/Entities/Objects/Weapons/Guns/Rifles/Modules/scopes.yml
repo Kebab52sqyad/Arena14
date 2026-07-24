@@ -76,7 +76,7 @@
         - STWeaponModuleRifleScopeRu
     - type: STWeaponModule
       effect:
-        minAngleModifier: 0.9
+        minAngleModifier: 0.8
       scopeEffect:
         delay: 0.3
         zoom: 1.2
